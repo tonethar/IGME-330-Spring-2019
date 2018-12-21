@@ -151,13 +151,14 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
-5) Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
-   - examples of acceptable use requiring citation:
+5) It is expected and required that the code in the assignment (oher than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
+   - examples of acceptable use for this project:
      - copying a GUID generating function "whole cloth" from StackOverflow - https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
    - Cite the code source **both** in the source code itself as a comment, and in your final documentation
    - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
    - You do not need to cite code that you received from our in-class exercises, demos or HW
+   - **If you have any doubt about what is acceptable to 
 6) **NOT allowed**:
     - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
