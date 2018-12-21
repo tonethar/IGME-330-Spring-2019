@@ -164,6 +164,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
   - Does the app work as intended and do something useful?
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
+  - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
 
 ## III. Milestones
   - Project proposal with working prototype - see myCourses for due date/time:
@@ -225,6 +226,8 @@ Your project will be graded on the following criteria:
 | *Deduction if MVVM framework "created by you" component is missing* | -10 | |
 | *Deduction if MVVM framework is not used* | -30 | |
 | *Deduction if Ajax is not used* | -30 | |
+| *Deduction if app does not function when deployed to web* | -15 | |
+| *Deduction if students does not attend finals week meeting to present app to either class or professor* | -15 | |
 
 Note:
 - **Good** (Meet all requirements above reasonably well) = 90%
