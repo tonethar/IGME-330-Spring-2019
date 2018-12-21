@@ -161,7 +161,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
    - Cite the code source **both** in the source code itself as a comment, and in your final documentation
    - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
    - You do not need to cite code that you received from our in-class exercises, demos or HW
-   - **If you have any doubt about what is acceptable to 
+   - **If you have any doubt about what is acceptable to "borrow", ask the professor *in advance* of using it**
 6) **NOT allowed**:
     - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
