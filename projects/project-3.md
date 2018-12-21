@@ -118,8 +118,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - a "spinner" or other "indeterminate progress" animation --> [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
       - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
 6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
-    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen). 
-    - The main controls of the application must fit in a 1024x768 window.
+    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen
+    - The main controls of the application must fit in a 1024x768 window
 
 <a id="media"></a>
 
