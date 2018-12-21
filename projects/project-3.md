@@ -68,6 +68,9 @@ For this project you (and optionally a partner) are creating a JavaScript driven
    - The other part of this deliverable is a separate **admin.html** page:
      - this page must be zipped and posted to the mycourses dropbox with your final project submission, don't put it on the web
      - this page will display the contents of your Firebase Realtime database using Vue.js, NOT DOM manipulation
+     - make sure:
+       - the data you are displaying is actually *useful* to a hypothetical administrator - for example, search terms that users are typing in, and the number of times those terms are being chosen, is actually useful information that tells us how the app is being used
+       - the data is formatted nicely, and is not merely a JSON "object dump" to the screen
      - we will use this page to verify that your cloud data is updating
      - this will not be hard to do - the *Firebase Highscore Viewer* tutorial above gives you everything you need 
 
