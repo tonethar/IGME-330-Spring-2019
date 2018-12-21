@@ -221,14 +221,14 @@ Your project will be graded on the following criteria:
 |    - Is this project "portfolio quality" that you would not hesitate to show a potential employer? | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
-| ***Deductions*** | ***&darr; Don't lose points for any of these! &darr;*** | |
-| *Deduction if final documentation is not submitted to dropbox on time* | -10 | |
-| *Deduction if proposal/prototype is not submitted to dropbox on time* | -10 | |
-| *Deduction if MVVM framework "created by you" component is missing* | -10 | |
-| *Deduction if MVVM framework is not used* | -30 | |
-| *Deduction if Ajax is not used* | -30 | |
-| *Deduction if app does not function when deployed to web* | -15 | |
-| *Deduction if students does not attend finals week meeting to present app to either class or professor* | -15 | |
+| **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
+| *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if proposal/prototype is not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if MVVM framework "created by you" component is missing* | *(-10)* | |
+| *Deduction if MVVM framework is not used* | *(-30)* | |
+| *Deduction if Ajax is not used* | *(-30)* | |
+| *Deduction if app does not function when deployed to web* | *(-15)* | |
+| *Deduction if students does not attend finals week meeting to present app to either class or professor* | *(-15)* | |
 
 Note:
 - **Good** (Meet all requirements above reasonably well) = 90%
