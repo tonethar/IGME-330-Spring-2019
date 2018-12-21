@@ -221,6 +221,7 @@ Your project will be graded on the following criteria:
 |    - Is this project "portfolio quality" that you would not hesitate to show a potential employer? | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
+| ***Deductions*** | ***&darr; Don't lose points for any of these! &darr;*** | |
 | *Deduction if final documentation is not submitted to dropbox on time* | -10 | |
 | *Deduction if proposal/prototype is not submitted to dropbox on time* | -10 | |
 | *Deduction if MVVM framework "created by you" component is missing* | -10 | |
