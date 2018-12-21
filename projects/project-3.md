@@ -151,7 +151,14 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
-5) **NOT allowed**:
+5) Give credit and a link for all code (fragments or otherwise) that are not written you. Not doing this opens you to charges of **academic dishonesty**:
+   - examples of acceptable use requiring citation:
+     - copying a GUID generating function "whole cloth" from StackOverflow - https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
+     - copying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
+   - Cite the source **both** in the source code itself as a comment, and in your final documentation
+   - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
+   - You do not need to cite code that you received from our in-class exercises, demos or HW
+6) **NOT allowed**:
     - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
     - `var`
