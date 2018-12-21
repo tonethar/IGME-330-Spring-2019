@@ -155,7 +155,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
    - examples of acceptable use requiring citation:
      - copying a GUID generating function "whole cloth" from StackOverflow - https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
-   - Cite the source **both** in the source code itself as a comment, and in your final documentation
+   - Cite the code source **both** in the source code itself as a comment, and in your final documentation
    - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
    - You do not need to cite code that you received from our in-class exercises, demos or HW
 6) **NOT allowed**:
