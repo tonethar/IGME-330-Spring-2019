@@ -76,9 +76,7 @@
   - [Week 14B - Final Written Exam](weekly/week-14B-notes.md)
   
 ## <a id="finalsweek">Finals Week Meeting
-
-During finals week, we will meet as a group, check SIS for your section's meeting time and location:
-- all sections will have already taken the final written exam on the last day of class, and will be meeting finals week to present final projects
+  - All sections will have already taken the final written exam on the last day of class, and will be meeting finals week to present final projects. Check SIS for your section's meeting time and location
 
 <hr>
 
