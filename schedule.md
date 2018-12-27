@@ -1,23 +1,23 @@
 
-# IGME-330 - Fall 2018: Schedule
+# IGME-330 - Spring 2019: Schedule
 
 ## Contents
 
-- [Week 01 (Aug 27) : Course Intro & Review of Basic Web App Structure](#week1)
-- [Week 02 (Sep 03) : Intro to Canvas Drawing API & Affine Transforms](#week2)
-- [Week 03 (Sep 10) : More Canvas & Drawing Images & Blending Modes](#week3)
-- [Week 04 (Sep 17) : WebAudio API & Manipulating Bitmap data](#week4)
-- [Week 05 (Sep 24) : Working on Audio Visualizer](#week5)
-- [Week 06 (Oct 01) : JavaScript Revealing Module Pattern & AV Project Due](#week6)
-- [Week 07 (Oct 08) : ES6 Classes/Code Modules & October Break](#week7)
-- [Week 08 (Oct 15) : Catchup, Review & Midterm Exam](#week8)
-- [Week 09 (Oct 22) : ES6 Modules and Transpiling](#week9)
-- [Week 10 (Oct 29) : Catch up & Work on Project 2](#week10)
-- [Week 11 (Nov 05) : Web Services](#week11)
-- [Week 12 (Nov 12) : Vue.js & MVVM](#week12)
-- [Break -- (Nov 19) : Catch up & Thanksgiving Break](#thanksgiving)
-- [Week 13 (Nov 26) : Cloud Data & JavaScript Topics](#week13)
-- [Week 14 (Dec 03) : Review & Final Exam](#week14)
+- [Week 01 (Jan 14) : Course Intro & Review of Basic Web App Structure](#week1)
+- [Week 02 (Jan 21) : Intro to Canvas Drawing API & Affine Transforms](#week2)
+- [Week 03 (Jan 28) : More Canvas & Drawing Images & Blending Modes](#week3)
+- [Week 04 (Feb 04) : WebAudio API & Manipulating Bitmap data](#week4)
+- [Week 05 (Feb 11) : Working on Audio Visualizer](#week5)
+- [Week 06 (Feb 18) : JavaScript Revealing Module Pattern & AV Project Due](#week6)
+- [Week 07 (Feb 25) : ES6 Classes/Code Modules & October Break](#week7)
+- [Week 08 (Mar 04) : Catchup, Review & Midterm Exam](#week8)
+- ***Spring Break  3/10-3/17***
+- [Week 09 (Mar 18) : ES6 Modules and Transpiling](#week9)
+- [Week 10 (Mar 25) : Catch up & Work on Project 2](#week10)
+- [Week 11 (Apr 01) : Web Services](#week11)
+- [Week 12 (Apr 08) : Vue.js & MVVM](#week12)
+- [Week 13 (Apr 15) : Cloud Data & JavaScript Topics](#week13)
+- [Week 14 (Apr 22) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
 
@@ -66,12 +66,6 @@
 ## <a id="week12">Week 12  : Vue.js & MVVM
   - [Week 12A - Intro to Vue.js](weekly/week-12A-notes.md)
   - [Week 12B - More Vue.js](weekly/week-12B-notes.md)
-
-<hr>
-
-## <a id="thanksgiving">Catch up and Thanksgiving Break
-  
-<hr>
   
 ## <a id="week13">Week 13 : Cloud Data & JavaScript Topics
   - [Week 13A - Cloud Data](weekly/week-13A-notes.md)
@@ -84,8 +78,7 @@
 ## <a id="finalsweek">Finals Week Meeting
 
 During finals week, we will meet as a group, check SIS for your section's meeting time and location:
-- section 01 (online) will meet in person and take the final exam, and then look at each other's final projects
-- sections 02 & 03 will have already taken the final exam on the last day of class, and will instead meet to look at final projects
+- all sections will have already taken the final written exam on the last day of class, and will be meeting finals week to present final projects
 
 <hr>
 
