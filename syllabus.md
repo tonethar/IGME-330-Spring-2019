@@ -10,10 +10,10 @@
 
 ### Section 01
 - Professor: Tony Jefferson  
-- Teaching Assistant: TBA
+- Teaching Assistant: Lucas Nichols
 - Office:  GOL-2139 (IGM Main Office)
 - Email: tony@mail.rit.edu
-- Office hours: Lucas Nichols
+- Office hours: TBA
 - Class meetings: TR 3:30PM - 4:45PM in MSS-3110
 
 ### Section 02
