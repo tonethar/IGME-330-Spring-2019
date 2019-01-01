@@ -38,7 +38,7 @@ function getRandomColor(){
 }
 
 function getRandomInt(min, max) {
-  return Math.round(Math.random() * (max - min)) + min;
+  return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 ```
 - and if we have time, we might re-factor `getRandomColor()` into something a little more "ES6ish" - for example:
