@@ -42,7 +42,7 @@
 
 ## IV. Course Materials and Communication
 
-- much of the course content will be located on this GitHub site
+- most of the course content will be located on this GitHub site
 - https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
 - keep an eye on the dropboxes in mycourses for assignment due dates
 
