@@ -91,7 +91,7 @@ Official description from SIS: *This course provides students the opportunity to
     - Manipulating the properties of DOM elements:
       - `document.querySelector()`
       - `document.querySelectorAll()`
-    - Challenge:
+    - Homework (see mycourses dropbox):
       - Add a "last name" input so that we can greet the person using both their first and last name
       - *Declaratively* (using CSS) make the button 50 pixels tall by 100 pixels wide
       - *Imperatively* (using JavaScript) give the paragraph a red text color, and a yellow background color
