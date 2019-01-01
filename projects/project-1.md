@@ -1,4 +1,4 @@
-# Project 1 - Audio Visualizer
+# Project 1 - Audio Visualizer - DRAFT
 
 ## I. Project Requirements & Deliverables
 - the project requirements are here: http://igm.rit.edu/~acjvks/courses/2018-spring/330/html/project-1/
