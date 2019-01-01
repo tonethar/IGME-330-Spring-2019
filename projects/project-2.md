@@ -1,4 +1,4 @@
-# Project 2 - HTML5 Canvas Experience or Game
+# Project 2 - HTML5 Canvas Experience or Game - DRAFT
 
 ## I. Project 2 Requirements & Deliverables
 - the project 2 requirements are here: http://igm.rit.edu/~acjvks/courses/2018-spring/330/html/project-2/
