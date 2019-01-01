@@ -96,8 +96,8 @@ The course policy on academic dishonesty is simple: If you get caught cheating o
 [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html)
 
 ## VII. Important RIT Deadlines
-- Last day of add/drop is Tuesday September 4th, 2018.
-- Last day to withdraw with a grade of "W" is Friday November 9th, 2018.
+- Last day of add/drop is Tuesday January 22nd, 2019.
+- Last day to withdraw with a grade of "W" is Friday April 5th, 2019.
 - You have one semester after the class has ended to challenge your grade. 
 
 ## VIII. Notices of Accommodation
