@@ -68,9 +68,8 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (50%)
-* Project 1 (15%) - [Audio Visualizer](projects/project-1.md)
-* Project 2 (15%) - [Interactive Game or Experience](projects/project-2.md)
-* Project 3 (20%) - [MVVM Web Application](projects/project-3.md)
+* Project 1 (25%) - [Audio Visualizer](projects/project-1.md)
+* Project 2 (25%) - [MVVM Web Application](projects/project-2.md)
 
 
 ### Exams (30%)
