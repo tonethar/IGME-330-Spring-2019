@@ -1,7 +1,6 @@
 # Week 7 - Intro to ES6 Classes and Modules
 
 ## I. Overview & Agenda
-- Monday 10/8 & Tuesday 10/9 we are on October Break
 - ***The midterm exam is next week!*** Here are some study resources:
   - [midterm-exam-review.md](../exams/midterm-exam-review.md)
   - [sample-midterm-exam.md](../exams/sample-midterm-exam.md)
