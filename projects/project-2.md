@@ -1,4 +1,4 @@
-# Project 2 - MVVM Web App Mashup of Awesomeness! - DRAFT
+# Project 2 - MVVM Web App Mashup of Awesomeness! - *DRAFT*
 
 ## I. Overview
 
