@@ -36,7 +36,7 @@
 - Professor: Noah Bast  
 - Teaching Assistant: TBA
 - Office:  
-- Email: 
+- Email: nbbigm@rit.edu
 - Office hours: TBA
 - Class meetings: TR 5:00PM - 06:15PM in ORN-1375
 
