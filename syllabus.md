@@ -34,7 +34,7 @@
 
 ### Section 04
 - Professor: Noah Bast  
-- Teaching Assistant: TBA
+- Teaching Assistant: Coehl Gleckner
 - Office:  
 - Email: nbbigm@rit.edu
 - Office hours: TBA
