@@ -20,7 +20,7 @@
 - Professor: Andrew Wheeland  
 - Teaching Assistant: TBA
 - Office:  GOL-2521
-- Email: andrew.wheeland@rit.edu
+- Email: anwigm@rit.edu
 - Office hours: TBA
 - Class meetings: TR 9:30AM - 10:45AM in GOL-2435
 
@@ -28,7 +28,7 @@
 - Professor: Andrew Wheeland  
 - Teaching Assistant: TBA
 - Office:  GOL-2521
-- Email: andrew.wheeland@rit.edu
+- Email: anwigm@rit.edu
 - Office hours: TBA
 - Class meetings: TR 11:00AM - 12:15PM in GOL-2435
 
