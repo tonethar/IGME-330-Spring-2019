@@ -27,7 +27,7 @@ Official description from SIS: *This course provides students the opportunity to
     - if time remains, students will be able to work on homework assignments
 - The assignments given in this class break into two categories:
     - homework assignments or in-class exercises that focus narrowly on one or more concepts
-    - three projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
+    - two projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
 - A large part of this course is taught similar to a typical math course: there will be several small homework assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates.
 - Keep an eye on the dropboxes in myCourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
     - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
