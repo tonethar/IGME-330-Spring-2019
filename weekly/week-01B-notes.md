@@ -41,9 +41,22 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 ```
+
+- BTW: what is the *scope* of the `getByte()` function below? Is it visible outside of the `getRandomColor()` function?
 - and if we have time, we might re-factor `getRandomColor()` into something a little more "ES6ish" - for example:
   - replace `getByte()` with an [arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
   - replace the string concatenation in the return statement above with [string template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+  
+## VII. Completed versions
+
+Here are a couple of possibilities:
+
+![screenshot](./_images/screen-saver-1.gif)
+
+  
+## VI. Randomness
+
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
