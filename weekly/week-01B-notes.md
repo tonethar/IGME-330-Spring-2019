@@ -53,6 +53,7 @@ Here are a couple of possibilities:
 
 ![screenshot](./_images/screen-saver-1.gif)
 
+![screenshot](./_images/screen-saver-2.gif)
   
 ## VI. Randomness
 
