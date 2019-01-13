@@ -1,4 +1,5 @@
-# IGME-330 Rich Media Web Application Development I. - Fall 2018: Syllabus
+# IGME-330 Rich Media Web Application Development I. 
+## Spring 2019: Syllabus
 
 ## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
