@@ -105,6 +105,13 @@ Official description from SIS: *This course provides students the opportunity to
   - *Declaratively* (using CSS) make the button 50 pixels tall by 100 pixels wide
   - *Imperatively* (using JavaScript) give the paragraph a red text color, and a yellow background color
 
+## VIII. Videos of demo
+
+We aren't always going to have video links, but here they are:
+
+[Week 1A - JavaScript and DOM review - 1 (20:36)](https://video.rit.edu/Watch/f8H5Akr4) - the demo begins at 
+[Week 1A - JavaScript and DOM review - 2 (29:51)](https://video.rit.edu/Watch/Dr8n4XNz)
+
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
 |   :-\  |  [**IGME-330 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
