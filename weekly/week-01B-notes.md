@@ -16,47 +16,10 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 - https://www.w3.org/TR/2dcontext/
 - https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
 
-## IV. Presentation
+## IV. Presentations
 - [Randomness and Aesthetics](https://github.com/tonethar/IGME-330-Master/blob/master/notes/randomness-1.md)
 - [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
-
-## V. Today's Topic - *Intro to the Canvas 2D Drawing API*
-- start file for today's "screen saver" demo is here -> [first-canvas.md](_files/first-canvas.md)
-- Concepts covered:
-  - Getting a reference to the 2D drawing context with `canvas.getContext('2d')`
-  - setting context "state" attributes like `.fillStyle`, `.strokeStyle`, `.lineWidth` and `.globalAlpha`
-  - drawing rectangles, circles and lines
-  - creating paths, and stroking and filling them
-  - setting up an animation loop
-- and here are some handy helper functions we will be using today, they are provided below for your copy and paste pleasure:
-
-```js
-function getRandomColor(){
-  function getByte(){
-    return 55 + Math.round(Math.random() * 200);
-  }
-  return "rgba(" + getByte() + "," + getByte() + "," + getByte() + ",.8)";
-}
-
-function getRandomInt(min, max) {
-  return Math.floor(Math.random() * (max - min + 1)) + min;
-}
-```
-
-- BTW: what is the *scope* of the `getByte()` function below? Is it visible outside of the `getRandomColor()` function?
-- and if we have time, we might re-factor `getRandomColor()` into something a little more "ES6ish" - for example:
-  - replace `getByte()` with an [arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-  - replace the string concatenation in the return statement above with [string template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-  
-## VII. Completed versions
-
-Here are a couple of possibilities:
-
-![screenshot](./_images/screen-saver-1.gif)
-
-![screenshot](./_images/screen-saver-2.gif)
-  
-## VI. Randomness
+- [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-1.md)
 
 
 <hr><hr>
