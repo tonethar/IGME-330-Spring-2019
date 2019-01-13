@@ -27,7 +27,7 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 
 - [HW-Random Walker](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
 
-## VI. Videos of demo
+## VI. Videos of lecture & demos
 
 We aren't always going to have video links, but here they are:
 
