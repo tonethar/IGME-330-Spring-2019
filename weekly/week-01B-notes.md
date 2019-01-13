@@ -17,6 +17,7 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 - https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
 
 ## IV. Presentation
+- [Randomness and Aesthetics](https://github.com/tonethar/IGME-330-Master/blob/master/notes/randomness-1.md)
 - [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
 
 ## V. Today's Topic - *Intro to the Canvas 2D Drawing API*
