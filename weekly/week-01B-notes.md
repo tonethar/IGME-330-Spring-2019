@@ -1,5 +1,7 @@
 # Week 1B - Introduction to Canvas
 
+Welcome to day 2! We have quite a bit to cover today. If we don't get to cover everything during the class time, you are responsible for getting this material by watching the video links at the bottom of this page.
+
 ## I. Overview
 Canvas is a 2D bitmap drawing API that allows the developer to write code that draws shapes and images into a browser window without the need for a plug-in like Flash or Java. 
 
