@@ -21,7 +21,7 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 - [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
 
 ## V. Demo & HW
-- [Intro to the Canvas 2D Drawing API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-1.md)
+- [Intro to the Canvas 2D Drawing API (includes "screen saver" HW)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-1.md)
 
 **OR**
 
