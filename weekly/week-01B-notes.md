@@ -25,7 +25,7 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 
 **OR**
 
-- [Random Walker](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
+- [HW-Random Walker](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
 
 
 <hr><hr>
