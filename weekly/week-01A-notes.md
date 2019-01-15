@@ -107,7 +107,7 @@ Official description from SIS: *This course provides students the opportunity to
 
 ## VIII. Videos of demo
 
-We aren't always going to have video links, but here they are:
+We aren't always going to have video links, but here they are in case we run out of time today:
 
 - [Week 1A - JavaScript and DOM review - 1 (20:36)](https://video.rit.edu/Watch/f8H5Akr4) - the lecture begins at 8:50, the demo begins at 13:30 
 - [Week 1A - JavaScript and DOM review - 2 (29:51)](https://video.rit.edu/Watch/Dr8n4XNz)
