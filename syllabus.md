@@ -92,8 +92,9 @@ Note: 1 absence 4/5 points, 2 absences 3/5 points, 3 absences 1.5/5 points, 4 ab
 Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed at the end of week 11, and then only by prior arrangement with the professor. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor ASAP as early as possible in the semester if you're having difficulty. 
 
 ### Academic Dishonesty
-The course policy on academic dishonesty is simple: If you get caught cheating or plagiarizing, you get an "F" as a grade for the course, a letter detailing the incident goes into your records folder, and you are immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.) Please review RIT's policy on academic dishonesty: 
+- The course policy on academic dishonesty is simple: If you get caught cheating or plagiarizing or commiting duplicate submission without permission, you get an "F" as a grade for the course, a letter detailing the incident goes into your records folder, and you are immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.) Please review RIT's policy on academic dishonesty: 
 [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html)
+- **Duplicate submission** is the submitting of the same or similar work for credit in more than one course without prior approval of the instructors for those same courses. *If you took IGME-330 previously, you **may not hand** in code that you previously submitted (for example, a previous version Project 1 Audio Visualizer)*
 
 ## VII. Important RIT Deadlines
 - Last day of add/drop is Tuesday January 22nd, 2019.
