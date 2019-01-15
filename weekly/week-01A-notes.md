@@ -3,7 +3,7 @@
 Welcome to the course!
 
 ## I. Overview
-Welcome to IGME-330 Rich Media Web Application Development I. In this course you will be building on top of IGME-230 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, and tools like Node.js and npm. 
+Welcome to IGME-330 Rich Media Web Application Development I. In this course you will be building on top of IGME-230 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, with tools like Node.js and npm, and MVVM frameworks such as Vue.js
 
 
 ## II. Prerequisites
