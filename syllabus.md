@@ -19,18 +19,18 @@
 
 ### Section 02
 - Professor: Andrew Wheeland  
-- Teaching Assistant: TBA
+- Teaching Assistant: Alexia Bernardo
 - Office:  GOL-2521
 - Email: anwigm@rit.edu
-- Office hours: TBA
+- Office hours: Monday, Wednesday, 10:30AM to 12:30PM
 - Class meetings: TR 9:30AM - 10:45AM in GOL-2435
 
 ### Section 03
 - Professor: Andrew Wheeland  
-- Teaching Assistant: TBA
+- Teaching Assistant: Aiden Thinn
 - Office:  GOL-2521
 - Email: anwigm@rit.edu
-- Office hours: TBA
+- Office hours: Monday, Wednesday, 10:30AM to 12:30PM
 - Class meetings: TR 11:00AM - 12:15PM in GOL-2435
 
 ### Section 04
