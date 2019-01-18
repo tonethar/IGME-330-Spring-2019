@@ -14,7 +14,9 @@
 - Teaching Assistant: Lucas Nichols
 - Office:  GOL-2139 (IGM Main Office)
 - Email: tony@mail.rit.edu
-- Office hours: TBA
+- Office hours:
+  - Tuesday/Thursday 2:15PM - 3:15PM in GOL-2139
+  - Tuesday/Thursday 6:15PM - 7:00PM in GOL-3510
 - Class meetings: TR 3:30PM - 4:45PM in MSS-3110
 
 ### Section 02
