@@ -141,6 +141,12 @@ Today we will:
 
 ```
 
+**Done versions:**
+
+![Screenshot](./_images/screen-saver-2A.gif)
+
+![Screenshot](./_images/screen-saver-2B.gif)
+
 ## VII. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
 
