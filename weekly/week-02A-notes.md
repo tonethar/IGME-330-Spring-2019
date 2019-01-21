@@ -205,6 +205,16 @@ ctx.fill();
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setLineDash
 - More on clipping: https://stackoverflow.com/questions/18988118/how-can-i-clip-inside-a-shape-in-html5-canvas
 
+## VI. Videos of lecture & demos
+
+We aren't always going to have video links, but here is a re-cap of today's major topics:
+
+- [Week 2A - JavaScript Quiz - Part I (12:38)](https://video.rit.edu/Watch/Te6q9A5E)
+- [Week 2A - JavaScript Quiz - Part II (11:05)](https://video.rit.edu/Watch/Kz9r5P2T)
+- [Week 2A - JavaScript Quiz - Part III (16:18)](https://video.rit.edu/Watch/Lc78XjPq)
+- [Week 2A - Canvas Intro - Part I (11:49)](https://video.rit.edu/Watch/k5T3Jpy2)
+- [Week 2A - Canvas Intro - Part II (11:57)](https://video.rit.edu/Watch/b5DRe4a8)
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
