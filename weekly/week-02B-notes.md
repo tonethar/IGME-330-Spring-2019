@@ -138,7 +138,82 @@ Today we will:
 **screen-saver-2-start.html**
 
 ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Screensaver - now with rotations!</title>
+	<style type="text/css">
+	canvas{
+		border:1px solid gray;
+	}
+	</style>
+</head>
+<body>
+	<canvas width="640" height="480">
+		Get a real browser!
+	</canvas>
+</body>
+	<script>
+	'use strict';
+		
+	let ctx = document.querySelector('canvas').getContext('2d');
+	let rotation = 0;
+	let rotationSpeed = .05;
+	let transformAmount = 0;
+	let strokeStyle = "black";
 
+	init();
+	function init(){
+		// 1 - draw background
+		fillBGWithRandomTint()
+		
+		// 2 - schedule some code to fire at regular intervals
+	
+		
+		// 3 - start the animation loop
+		loop();
+	}
+	
+	
+	function loop(){
+	//	requestAnimationFrame(loop);
+		ctx.save();
+	//	ctx.translate(320, 240);
+	//	ctx.scale(.5, .5);
+		ctx.rotate(rotation);
+		ctx.lineWidth=1;
+		ctx.linePath = "round";
+		ctx.lineJoin = "round";
+		ctx.beginPath()
+		ctx.moveTo(40, 400);
+		ctx.bezierCurveTo(420, 78, 178, 93, 600, 400);
+		ctx.lineTo(40,400);
+		ctx.closePath();
+		ctx.strokeStyle = strokeStyle;
+		ctx.stroke();
+		ctx.restore();
+	//	rotation += rotationSpeed;
+	//	transformAmount += .1;
+	}
+
+	function fillBGWithRandomTint(){
+		ctx.save();
+		ctx.fillStyle = getRandomColor(); 
+		ctx.globalAlpha = 0.3;
+		ctx.fillRect(0,0,640,480);
+		ctx.restore();
+		
+	}
+
+	function getRandomColor(){
+			function getByte(){
+				return 55 + Math.round(Math.random() * 200);
+			}
+			return "rgba(" + getByte() + "," + getByte() + "," + getByte() + ",1)";
+		}
+	</script>
+</html>
 ```
 
 **Done versions:**
