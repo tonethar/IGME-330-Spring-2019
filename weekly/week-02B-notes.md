@@ -131,9 +131,17 @@ Today we will:
 </html>
 ```
 
+## VI. Another Demo
+- Let's use our knowledge of scale and rotate to create another screensaver!
+- Here's the start code:
 
+**screen-saver-2-start.html**
 
-## VI. Reference
+```html
+
+```
+
+## VII. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
 
 
