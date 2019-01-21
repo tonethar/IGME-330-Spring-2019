@@ -18,7 +18,8 @@ Today we will:
 
 ## III. Review of last week's JavaScript concepts <a id="review-questions"></a>
 
-**You should be able to answer these questions!**
+- **You should be able to answer these questions!**
+- ***Can you believe we are reviewing for the midterm exam already?!***
 
 1. When writing JavaScript code in a web browser, what is the essential first step you must take before writing code that accesses HTML elements (i.e DOM elements) that are already on the page?
 1. Which DOM method is used (in this course) to get a reference to a *single* HTML page element?
