@@ -40,6 +40,9 @@ Today we will:
 1. Suppose we have a variable named `myButton` that references a DOM button. Write a JS *event handler* that will call function `doStuff` when the button is clicked
 1. Now write *event listener* code that will do the same thing for `myButton`
 1. Can JavaScript functions be thought of as a "First-class data type" and/or a ["First-class citizen"](https://en.wikipedia.org/wiki/First-class_citizen)
+1. Need some review? Check out these IGME-230 pages:
+  - [Web Apps 5 - JavaScript Functions](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-5.md)
+  - [Web Apps 6 - JavaScript Events](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-6.md)
 
 ## IV. Canvas Presentation
 
