@@ -2,6 +2,7 @@
 
 ## I. Overview
 Today we will: 
+- Take a look at the Screen Saver/Random Walker Submissions
 - Review:
   - JavaScript & DOM concepts from last week
   - how to set up a canvas drawing context, and how to draw:
