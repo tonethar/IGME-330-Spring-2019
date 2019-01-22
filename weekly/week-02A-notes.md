@@ -173,10 +173,10 @@ ctx.fill();
 ![triangle image](./_images/triangle-2.jpg)
 
 \*\* ***If we set another drawing state attribute -  `ctx.lineJoin = "round";` - we get rounded corners. See below:*** \*\*
+- other possible values for `.lineJoin` are `"bevel"` and `"miter"` (the default) --> https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineJoin
 
 ![triangle image](./_images/triangle-3.jpg)
 
-- other possible values for `.lineJoin` are `"bevel"` and `"miter"` (the default) --> https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineJoin
 
 \*\* ***If we set the line dash pattern -  `ctx.setLineDash([5, 15]);` - we get a dashed line. See below:*** \*\*
 
