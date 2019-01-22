@@ -176,9 +176,12 @@ ctx.fill();
 
 ![triangle image](./_images/triangle-3.jpg)
 
+- other possible values for `.lineJoin` are `"bevel"` and `"miter"` (the default) --> https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineJoin
+
 \*\* ***If we set the line dash pattern -  `ctx.setLineDash([5, 15]);` - we get a dashed line. See below:*** \*\*
 
 - **The dashes are 5px long, and the spaces between the dashes are 15px**
+- You can see some other pattern here --> https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setLineDash
 
 ![triangle image](./_images/triangle-4.jpg)
 
