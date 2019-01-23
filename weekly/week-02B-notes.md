@@ -131,6 +131,10 @@ Today we will:
 </html>
 ```
 
+**Done Version:**
+
+![Screenshot](./_images/screen-saver-2C.gif)
+
 ## VI. Another Demo
 - Let's use our knowledge of scale and rotate to create another screensaver!
 - Here's the start code:
