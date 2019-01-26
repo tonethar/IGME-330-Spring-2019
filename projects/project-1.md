@@ -85,6 +85,7 @@ VI. [Screenshots](#VI)
 2. Be sure that the default settings of these controls results in an app that starts up in a visually pleasing state
 3. There will be no JavaScript errors or exceptions thrown by the app
 4. Ideas for optional controls:
+    - Make your entire UI minimalist by using dat.gui --> http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
     - Mouse control (clicking or moving the mouse changes how the visualizer looks)
     - Web Cam input changes how the visualizer looks
     - The user can load their own tracks using [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) or the [HTML `File` API](https://developer.mozilla.org/en-US/docs/Web/API/File)
