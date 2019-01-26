@@ -250,7 +250,7 @@ Note:
   
 <a id="VI"></a>
   
-## V. Screenshots
+## VI. Screenshots
  
 ![screenshot](./_images/audio-pulse.jpg)
   
