@@ -1,7 +1,7 @@
 # Project 1 - Audio Visualizer - *DRAFT*
 
 - [I. Overview](#I)
-  - [A. Mission](#examples)
+  - [A. Mission](#mission)
   - [B. Resources](#resources)
   - [C. Examples](#examples)
 - [II. Project Requirements](#II)
