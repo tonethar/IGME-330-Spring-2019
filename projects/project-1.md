@@ -176,11 +176,12 @@ VI. [Screenshots](#VI)
 
 ### G. Impact
   - Does the app functionality and programming go beyond what we did in class?
-  - Project elements are implemented in an aesthetically pleasing fashion and are not merely tacked on to meet a requirement
+  - Is there an analogous relationship between the sound data and what people are seeing on the screen?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
+  - Project elements are implemented in an aesthetically pleasing fashion and are not merely tacked on to meet a requirement
   - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
   - Ideas to increase impact:
-    - Review [Week 5A - Tuning up our Audio Visualizers](../weekly/week-05A-notes.md)
+    - Review [Week 5A - Tuning up our Audio Visualizers](../weekly/week-05A-notes.md#effective-audio-visualizer)
     - If your Audio Visualizer doesn't periodically change your users might get bored. Not all effects need be user controllable. Consider having certain effects toggle on and off or change every 5 to 10 seconds or so
     - Your drawing doesn't have to be on a black background like the Audio Visualizer ICE is
     - Certain drawing could go beyond the raw data for the various bins (frequency ranges), it could instead be aggregate data such as average loudness of all frequencies, or changes in the average of certain frequencies, or tied to beat detection.
