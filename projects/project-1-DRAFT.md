@@ -116,8 +116,8 @@
     - https://purecss.io
     - https://github.com/troxler/awesome-css-frameworks
   - Modern Layout Technology:
-    - Flexbox
-    - CSS Grid
+    - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+    - [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 
 <a id="code"></a>
 
