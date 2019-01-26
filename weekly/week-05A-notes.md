@@ -36,6 +36,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 - https://www.awwwards.com/awwwards/collections/web-audio-api-and-adio-visualization/ (really nice examples!)
 - https://99designs.com/blog/design-other/sound-visualization-design-inspiration/ (cool, but out there!)
 
+<a id="effective-audio-visualizer"></a>
 
 ## IV. Presentation
 - ***What makes for an effective audio visualization?***
