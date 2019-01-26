@@ -9,7 +9,7 @@
 - [Week 04 (Feb 04) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Feb 11) : Working on Audio Visualizer](#week5)
 - [Week 06 (Feb 18) : JavaScript Revealing Module Pattern & AV Project Due](#week6)
-- [Week 07 (Feb 25) : ES6 Classes/Code Modules & October Break](#week7)
+- [Week 07 (Feb 25) : ES6 Classes/Code Modules](#week7)
 - [Week 08 (Mar 04) : Catchup, Review & Midterm Exam](#week8)
 - ***Spring Break  3/10-3/17***
 - [Week 09 (Mar 18) : ES6 Modules and Transpiling](#week9)
