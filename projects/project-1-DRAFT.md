@@ -44,8 +44,9 @@
     - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
     - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
  
+<a id="II"></a>
 
-## II. Project Requirements<a id="II">
+## II. Project Requirements
 
 <a id="functionality"></a>
 
@@ -198,18 +199,24 @@
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
   - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
 
-## III. Milestones<a id="III">
+<a id="III"></a>
+
+## III. Milestones
   - Project proposal with working prototype - see myCourses for due date/time:
     - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
     - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
     - one submission per team please. Make sure both team members' names are included.
   - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
-## IV. Documentation<a id="IV">
+<a id="IV"></a>
+
+## IV. Documentation
   - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth
   - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
-## V. Grading<a id="V">
+<a id="V"></a>
+
+## V. Grading
   - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 Your project will be graded on the following criteria:
@@ -266,7 +273,9 @@ Note:
 - **Better** (Go beyond expectations in 2 or more areas) = 95%
 - **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
 
-## VI. Submission<a id="VI">
+<a id="VI"></a>
+
+## VI. Submission
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
 - Post the project to Banjo, and put the link in the mycourses dropbox comments field
 
