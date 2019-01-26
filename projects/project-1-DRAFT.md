@@ -60,26 +60,19 @@
 
 ### A. Functional Requirements
 1. Required Controls:
-  - The &lt;audio> element and its progress indicators, and standard play, pause, scrub, and volume controls. You are allowed to omit this element and create custom controls that give the same functionality.
-  - At least 3 sliders
-  - At least 3 checkboxes
-  - At least 1 radio button group
-  - A way to choose between at least 3 distinct audio tracks
-1. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
-    - a search button (which doesn't count)
-    - a search term field (&lt;input>) that the user types into
-    - a pulldown (&lt;select>) that the user can use to limit the number of results
-
-    -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web services will allow you to search them on. Here are some ideas:**
-       - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
-       - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
-       - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget that would help with this -> https://jqueryui.com/datepicker/
-       - **next** and **previous** buttons - another really nice option is to allow the user to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search?
-         - This is because there are ***thousands*** of cat GIFs on GIPHY, and if we don't otherwise specify we will always get them returned from the web service starting at index 0, which means we always get the first 100 (index 0-99) back.
-         - We can instead write code that requests a higher starting index.
-         - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
-
-5. There will be no JavaScript errors or exceptions thrown by the app
+    - The &lt;audio> element and its progress indicators, and standard play, pause, scrub, and volume controls. Optionally, you are allowed to omit this element and create custom controls that give the same functionality
+    - At least 3 sliders
+    - At least 3 checkboxes
+    - At least 1 radio button group
+    - A way to choose between at least 3 distinct audio tracks
+    - A "fullscreen" button
+2. Be sure that the default settings of these controls results in an app that starts up in a visually pleasing state.
+3. There will be no JavaScript errors or exceptions thrown by the app
+4. Ideas for optional controls:
+    - Mouse control (clicking or moving the mouse changes how the visualizer looks)
+    - Web Cam input changes how the visualizer looks
+    - The user can load their own tracks using drag-and-drop or the [`File` API](https://developer.mozilla.org/en-US/docs/Web/API/File)
+    
 
 
 
