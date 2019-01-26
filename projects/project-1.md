@@ -252,11 +252,17 @@ Note:
   
 ## V. Screenshots
  
-![screenshot](./_images/p1-1.jpg)
+![screenshot](./_images/audio-pulse.jpg)
   
-![screenshot](./_images/p1-2.jpg)
+![screenshot](./_images/av-1.jpg)
    
-![screenshot](./_images/p1-3.jpg)
+![screenshot](./_images/awesome.jpg)
+
+![screenshot](./_images/disco.jpg)
+
+![screenshot](./_images/glb-av.jpg)
+
+![screenshot](./_images/life.jpg)
 
 
 
