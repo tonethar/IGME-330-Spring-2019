@@ -9,8 +9,9 @@
 
 <hr><hr>
 
+<a id="I"></a>
 
-## I. Overview<a id="I">
+## I. Overview
 
 - A) Your mission (optionally with a partner):
   - to build on the Web Audio Visualizer ICE and create a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs:
