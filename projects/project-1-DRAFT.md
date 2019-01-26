@@ -110,12 +110,12 @@ VI. [Submission](#VI)
 <a id="canvas"></a>
 
 ### C. Canvas & Experience
-1) Bitmap info fetched with `ctx.getImageData()` will be manipulated and displayed to the user in some way using `ctx.putImageData()` -  ideally the user will be able to control or toggle the effects on and off.
+1) Bitmap info fetched with `ctx.getImageData()` - will be manipulated with "Photoshopish" effects and then displayed to the user in some way using `ctx.putImageData()` -  ideally the user will be able to control or toggle the effects on and off. 
 2) Audio data (frequency or waveform) must be sampled and used to draw graphics on the canvas using the following methods:
     - Lines
-    - Bezier and Cubic Bezier curves (see SG-2)
+    - Bezier and Cubic Bezier curves (see [SG-2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md))
     - Circles/Ovals
-    - A gradient will be used in at least one fill() or stroke() operation (see SG-2)
+    - A gradient will be used in at least one `fill()` or `stroke()` operation (see SG-2)
     - Rectangles
     - Bitmapped Images (optional)
 3) Use drawing context state variables where appropriate such as `.strokeStyle`, `.fillStyle`, `.lineWidth`, `.lineCap`, `.lineJoin`, `.globalAlpha` etc ...
