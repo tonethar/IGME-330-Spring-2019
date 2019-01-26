@@ -81,7 +81,7 @@ VI. [Submission](#VI)
     - At least 1 radio button group
     - A way to choose between at least 3 distinct audio tracks
     - A "fullscreen" button
-2. Be sure that the default settings of these controls results in an app that starts up in a visually pleasing state.
+2. Be sure that the default settings of these controls results in an app that starts up in a visually pleasing state
 3. There will be no JavaScript errors or exceptions thrown by the app
 4. Ideas for optional controls:
     - Mouse control (clicking or moving the mouse changes how the visualizer looks)
@@ -100,12 +100,9 @@ VI. [Submission](#VI)
     - it MUST utilize a CSS framework or modern web layout technology - see section D. below
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
-3) Users should be able to figure out how to use the app with minimal instruction:
+3) Users should be able to figure out how to use the app with minimal instruction, and yser errors must be handled gracefully:
     - be sure to provide instruction and tooltips if necessary
     - setting the `title` attribute of an element gives us a tooltip - easy!
-4) User errors must be handled gracefully:
-    - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
-
 
 <a id="canvas"></a>
 
@@ -122,15 +119,14 @@ VI. [Submission](#VI)
 4) Use the canvas transforms where appropriate - `ctx.translate()`, `ctx.rotate()` and `ctx.scale()`
     - "Push" and "pop" the canvas drawing state where appropriate
     - Recall that if your functions manipulate any drawing state variables, it's a good idea to `ctx.save()` the drawing state at the top of the function, and `ctx.restore()` the state at the bottom of the function
+5) Be sure that all of the above are implemented in an *aesthetically pleasing* fashion and are not merely tacked on to meet a requirement
 
 <a id="webaudio"></a>
 
 ### D. Web Audio & Experience
 1) Give the user the ability to view both the frequency AND the waveform data (not necessarily simultaneously)
 2) Add at least one audio node (besides the analyser), and give the user the ability to manipulate it
-3) Be sure that the effect is *aesthetically pleasing* and not merely tacked on to meet requirements
-
-
+3) Be sure that the effect is *aesthetically pleasing* and not merely tacked on to meet a requirement
 
 <a id="media"></a>
 
@@ -140,33 +136,29 @@ VI. [Submission](#VI)
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
     - Most CSS is in an external style sheet.
 3) Images are properly *optimized* (both dimensions and file size) for Web delivery
-4) You MUST use either a CSS framework or a modern web layout technology for the UI of this project:
+4) Embedded Web Font (but *Open Sans* is prohibited) - use https://fonts.google.com or similar
+5) You MUST use either a CSS framework or a modern web layout technology for the UI of this project:
   - CSS Frameworks:
     - https://bootstrap-vue.js.org
     - http://getbootstrap.com
     - http://materializecss.com
     - https://purecss.io
     - https://github.com/troxler/awesome-css-frameworks
-  - Modern Layout Technology:
+  - Modern Web Layout Technologies:
     - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
     - [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 
 <a id="code"></a>
 
 ### F. Code Requirements
-1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
-    - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
-2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
-3) Use at least 1 ES6 custom class, written by you:
-    - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
-4) Conventions and structure:
+1) Conventions and structure:
     - All code is an external JavaScript files
-    - ES6 module pattern preferred
-    - `let` and `const` must be used to declare variables
+    - ES5 revealing module pattern is required
+    - `let` and `const` must be used by defualt to declare variables - only use `var` for optimizations
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
-5) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
+2) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
    - examples of acceptable use for this project:
      - copying a GUID generating function "whole cloth" from StackOverflow - https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
@@ -174,10 +166,8 @@ VI. [Submission](#VI)
    - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
    - You do not need to cite code that you received from our in-class exercises, demos or HW
    - **If you have any doubt about what is acceptable to "borrow", ask the professor *in advance* of using it**
-6) **NOT allowed**:
-    - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
-    - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
-    - `var`
+3) **NOT allowed**:
+    - jQuery
     - inline event handlers in your HTML
     - `console.log()` calls (delete or comment them out)
 
