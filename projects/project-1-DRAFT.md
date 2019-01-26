@@ -8,9 +8,10 @@
   - [A. Functionality](#functionality)
   - [B. Design & Interaction](#design)
   - [C. Canvas & Experience](#canvas)
-  - [D. HTML/CSS & Media](#media)
-  - [E. Code](#code)
-  - [F. Impact](#impact)
+  - [D. WebAudio & Experience](#webaudio)
+  - [E. HTML/CSS & Media](#media)
+  - [F. Code](#code)
+  - [G. Impact](#impact)
 - [III. Milestones](#III)
 - [IV. Documentation](#IV)
 - [V. Grading](#V)
@@ -102,13 +103,31 @@
 <a id="canvas"></a>
 
 ### C. Canvas & Experience
-1) 
+1) Bitmap info fetched with `ctx.getImageData()` will be manipulated and displayed to the user in some way using `ctx.putImageData()` -  ideally the user will be able to control or toggle the effects on and off.
+2) Audio data (frequency or waveform) must be sampled and used to draw graphics on the canvas using the following methods:
+    - Lines
+    - Bezier and Cubic Bezier curves (see SG-2)
+    - Circles/Ovals
+    - A gradient will be used in at least one fill() or stroke() operation (see SG-2)
+    - Rectangles
+    - Bitmapped Images (optional)
+3) Use drawing context state variables where appropriate such as `.strokeStyle`, `.fillStyle`, `.lineWidth`, `.lineCap`, `.lineJoin`, `.globalAlpha` etc ...
+4) Use the canvas transforms where appropriate - `ctx.translate()`, `ctx.rotate()` and `ctx.scale()`
+    - "Push" and "pop" the canvas drawing state where appropriate
+    - Recall that if your functions manipulate any drawing state variables, it's a good idea to `ctx.save()` the drawing state at the top of the function, and `ctx.restore()` the state at the bottom of the function
+
+<a id="webaudio"></a>
+
+### D. Web Audio & Experience
+1) Give the user the ability to view both the frequency AND the waveform data (not necessarily simultaneously)
+2) Add at least one audio node (besides the analyser), and give the user the ability to manipulate it
+3) Be sure that the effect is *aesthetically pleasing* and not merely tacked on to meet requirements
 
 
 
 <a id="media"></a>
 
-### D. HTML/CSS & Media
+### E. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
     - Use HTML5 semantic and structural elements where practical
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
@@ -127,7 +146,7 @@
 
 <a id="code"></a>
 
-### E. Code Requirements
+### F. Code Requirements
 1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
     - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
 2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
@@ -157,7 +176,7 @@
 
 <a id="impact"></a>
 
-### F. Impact
+### G. Impact
   - Does the app work as intended and do something useful?
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
