@@ -2,9 +2,9 @@
 
 I. [Overview](#I)
   
-  A. [Mission](#mission)
-  B. [Resources](#resources)
-  C. [Examples](#examples)
+    A. [Mission](#mission)
+    B. [Resources](#resources)
+    C. [Examples](#examples)
   
 II. [Project Requirements](#II)
   
