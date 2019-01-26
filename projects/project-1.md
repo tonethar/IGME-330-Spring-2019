@@ -176,6 +176,7 @@ VI. [Screenshots](#VI)
 
 ### G. Impact
   - Does the app functionality and programming go beyond what we did in class?
+  - Project elements are implemented in an aesthetically pleasing fashion and are not merely tacked on to meet a requirement
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
   - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
   - Ideas to increase impact:
@@ -211,32 +212,41 @@ Your project will be graded on the following criteria:
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Functionality](#functionality)** | **40** | |
+| **A. [Functionality](#functionality)** | **15** | |
 |    1. Has required Controls | |
 |    2. Runs without errors | |
-|    - *Missing controls* | *(-10 each)* |
+|    3. Starts in a pleasing state | |
+|    - *Missing controls* | *(-5 each)* |
 |    - *Errors* | *(-? depending on severity)* |
-| **B. [Design & Interaction](#design)** | **20** | |
+| **B. [Design & Interaction](#design)** | **15** | |
 |    1. Visual design is pleasing | |
 |    2. Widgets are well labeled and follow interface conventions | |
 |    3. Users should be able to figure out how to use the app with minimal instruction | |
 |    4. The app should look good on a range of displays. | |
+|    - *Interface is clean and functional but not particularly attractive* | *(-1 to -5)* |
 |    - *Interface looks like AV HW* | *(-15)* |
-|    - *Interface "broken" at 1024x768 or higher resolutions* | *(-10)* |
-| **C. [HTML/CSS/Media](#media)**  | **10** | |
+|    - *Interface "broken" at 1024x768 resolution* | *(-10)* |
+| **C. [Canvas API & Experience](#canvas)**  | **15** | |
+|    - *Missing required elements | *(-5 each)* |
+| **D. [WebAudio API & Experience](#webaudio)**  | **15** | |
+|    - *Missing required elements | *(-5 each)* |
+| **E. [HTML/CSS/Media](#media)**  | **5** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
-| **D. [Code](#code)**  | **10** | |
-|    4. *Conventions NOT followed* | *(-5 per incident)* |
-|    5. *Code that is NOT allowed* | *(-5 per incident)* |
-| **E. [Impact](#impact)**  | **10** | |
-|    - Does the app work as intended and do something useful? | |
+| **F. [Code](#code)**  | **5** | |
+|    1. *Conventions NOT followed* | *(-1 to -5)* |
+| **G. [Impact](#impact)**  | **25** | |
+|    - Is the app work as intended and visually engaging? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
 |    - Is this project "portfolio quality" that you would not hesitate to show a potential employer? | |
-| **Above and Beyond (see below)** | **10** | |
+|    - *Project is NOT portfolio quality* | *(-5 to -15)* |
+| **Above and Beyond (You need to document this)** | **5** | |
 | **Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
+| *Deduction if missing an embedded font* | *(-5)* | |
+| *Deduction if missing a CSS framework or modern web layout* | *(-10)* | |
+| *Deduction if missing ES5 Revealing Module Pattern* | *(-10)* | |
 | *Deduction if required proposal/prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if app does not function when deployed to web* | *(-15)* | |
