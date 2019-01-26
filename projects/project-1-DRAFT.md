@@ -20,7 +20,8 @@
 
 ## I. Overview
 
-- A) Your mission (optionally with a partner):
+- A) Your mission:
+  - First, get a partner, and post both of your names to the discussion thread in mycourses. If you like, give your team a name. A partner is optional, you may work solo if you wish.
   - to build on the Web Audio Visualizer ICE and create a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs:
   - This could be a great portfolio piece for you - so give it your best effort!
   - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome
@@ -58,56 +59,13 @@
 <a id="functionality"></a>
 
 ### A. Functional Requirements
-1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
-    - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
-        - try to use an API that supports *CORS* (Cross-origin resource sharing)
-        - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
-    - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
-    - [USGS Earthquake data](http://earthquake.usgs.gov/earthquakes/feed/) visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - or [Leaflet Maps API](https://leafletjs.com/examples.html) - here's an example call to the earthquake service in JSON-P --> http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded
-    - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
-    - Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
-    - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
-    - Best Buy Deals --> [https://developer.bestbuy.com](https://developer.bestbuy.com)
-	- Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
-    - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
-	- Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
-	- Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
-	- Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
-	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
-	- For lists of even more Web services, see:
-          - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
-	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
-	  - [Amazon Web Services (AWS)](https://aws.amazon.com)
-	  - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
-    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
-      - Any API from GIPHY - https://developers.giphy.com/docs/
-      - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-    - **Important note:** - Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
-    - **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
-      - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
-      - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
-
-2. You will utilize a cloud storage API in some way:
-   - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp or IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
-   - See our Firebase exercises for help on this:
-     - [firebase-1.md - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
-     - [firebase-2.md - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
-     - [firebase-3.md - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
-   - This means that this project will use a minium of **THREE** APIs i.e. Firebase plus two other APIs chosen above
-   - The other part of this deliverable is a separate **admin.html** page:
-     - this page must be zipped and posted to the mycourses dropbox with your final project submission, don't put it on the web
-     - this page will display the contents of your Firebase Realtime database using Vue.js, NOT DOM manipulation
-     - make sure:
-       - the data you are displaying is actually *useful* to a hypothetical administrator - for example, search terms that users are typing in, and the number of times those terms are being chosen, is actually useful information that tells us how the app is being used
-       - the data is formatted nicely, and is not merely a JSON "object dump" to the screen
-     - we will use this page to verify that your cloud data is updating
-     - this will not be hard to do - the *Firebase Highscore Viewer* tutorial above gives you everything you need 
-
-3. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
-    - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field
-    - ideally this will also be true of the other controls, but we won't require it
-
-4. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
+1. Required Controls:
+  - The &lt;audio> element and its progress indicators, and standard play, pause, scrub, and volume controls. You are allowed to omit this element and create custom controls that give the same functionality.
+  - At least 3 sliders
+  - At least 3 checkboxes
+  - At least 1 radio button group
+  - A way to choose between at least 3 distinct audio tracks
+1. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
@@ -123,21 +81,17 @@
 
 5. There will be no JavaScript errors or exceptions thrown by the app
 
-6. Optional Features:
-    - Sound:
-      - Subtle UI sound can be a nice extra
-      - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
-    - Canvas Drawing/Animation:
-      - &lt;canvas> visualization of web service data can be a nice extra
-      - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
-      - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
+
 
 <a id="design"></a>
 
 ### B. Design & Interaction
+- ***Throw out the AV exercise and start over. You may NOT reuse the HTML and CSS from that exercise. Instead, build a custom layout yourself.***
+
 1) Pleasing graphic design:
     - with a custom interface coded in HTML/CSS, by you
-    - this interface does not resemble the GIPHY homework's UI
+    - this interface does not resemble the AV homework's UI
+    - it MUST utilize a CSS framework or modern web layout technology - see section C. below
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
 3) Users should be able to figure out how to use the app with minimal instruction:
@@ -160,13 +114,17 @@
     - Use HTML5 semantic and structural elements where practical
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
     - Most CSS is in an external style sheet.
-3) Images are properly optimized (both dimensions and file size) for Web delivery
-4) you ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
+3) Images are properly *optimized* (both dimensions and file size) for Web delivery
+4) You MUST use either a CSS framework or a modern web layout technology for the UI of this project:
+  - CSS Frameworks:
     - https://bootstrap-vue.js.org
     - http://getbootstrap.com
     - http://materializecss.com
     - https://purecss.io
     - https://github.com/troxler/awesome-css-frameworks
+  - Modern Layout Technology:
+    - Flexbox
+    - CSS Grid
 
 <a id="code"></a>
 
