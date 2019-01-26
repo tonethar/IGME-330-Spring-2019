@@ -1,6 +1,8 @@
 # Project 1 - Audio Visualizer - *DRAFT*
 
 - [I. Overview](#I)
+  - Resources
+  - Examples
 - [II. Project Requirements](#II)
 - [III. Milestones](#III)
 - [IV. Documentation](#IV)
