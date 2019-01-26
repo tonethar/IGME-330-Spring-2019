@@ -1,28 +1,38 @@
-# Project 1 - MVVM Web App Mashup of Awesomeness! - *DRAFT*
+# Project 1 - Audio Visualizer - *DRAFT*
 
 ## I. Overview
 
-\*\* **TLDR** \*\* - *if you don't know what to do for this project, do a Google Maps/Earthquake mashup or Google Maps/Restaurants mashup etc.  - you could also use the [Leaflet maps API](https://leafletjs.com/examples.html) - just be sure to fullfill all of the requirements - read on!*
+- A) Your mission (optionally with a partner):
+  - to build on the Web Audio Visualizer ICE and create a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs:
+  - This could be a great portfolio piece for you - so give it your best effort!
+  - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome
+  - The assignment is graded out of 100 points. An A grade will be awarded only for meeting the requirements below, AND going sufficiently "above and beyond" the what we did in the Audio Visualizer ICE
 
-For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
-
-- Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
-- Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
-- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a web browser context, utilizing a MVVM framework such as Vue.js
-- You will be evaluated on:
+- B) You will be evaluated on:
     - the quality of the experience you create
     - the soundness of your programming
     - meeting the requirements detailed below
     - how far you went beyond what we did in class, as described below
     
-- Resources:
-   - This HW covered the basics of working with web services --> [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) 
-   - These weekly notes link to the relevant course content:
-     - [Week 11A - Intro to Web Services](./weekly/week-11A-notes.md)
-     - [Week 11B - More About Web Services](./weekly/week-11B-notes.md)
-     - [Week 12A - Intro to Vue.js](./weekly/week-12A-notes.md)
-     - [Week 12B - More Vue.js](./weekly/week-12B-notes.md)
-     - [Week 13A - Storing data in cloud](weekly/week-13A-notes.md)
+- C) Resources:
+  - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
+  - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
+  - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md) - *there is no dropbox for this and it will not be collected. But this is where some very helpful info on adding audio effect nodes to the visualizer (which is a requirement of the final project submission) is given to you.*
+  
+ - D) Examples:
+  - [Project 1 Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
+  - Here are some examples from 2171 & 2175 (most run best in Chrome):
+    - https://mcs2515.github.io/Magical_Visualizer/#
+    - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
+    - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
+    - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
+    - https://people.rit.edu/etn6701/330/Project%201/
+    - https://people.rit.edu/pfw4498/330/projects/audioViz/wilsonAudioVizProject.html
+    - https://people.rit.edu/sbm7101/330/projects/MayerWalker_AudioViz/WalkerMayer_AudioViz.html
+    - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
+    - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
+    - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
+ 
 
 ## II. Project Requirements
 
