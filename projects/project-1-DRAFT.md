@@ -4,6 +4,7 @@ I. [Overview](#I)
   A. [Mission](#mission)
   B. [Resources](#resources)
   C. [Examples](#examples)
+  
 II. [Project Requirements](#II)
   A. [Functionality](#functionality)
   B. [Design & Interaction](#design)
@@ -12,10 +13,14 @@ II. [Project Requirements](#II)
   E. [HTML/CSS & Media](#media)
   F. [Code](#code)
   G. [Impact](#impact)
+  
 III. [Milestones](#III)
-  IV. [Documentation](#IV)
-  V. [Grading](#V)
-  VI. [Submission](#VI)
+
+IV. [Documentation](#IV)
+
+V. [Grading](#V)
+
+VI. [Submission](#VI)
 
 <hr><hr>
 
