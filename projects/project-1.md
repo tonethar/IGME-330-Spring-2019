@@ -187,13 +187,20 @@ VI. [Screenshots](#VI)
     - The Audio Visualizer ICE redraws the entire canvas every turn. Consider NOT doing so, and allowing drawing to accumulate on the canvas - a moving sprite drawing a trail for example - and then the entire layer either slowly fading or being wiped and started over.
     - The above could be implemented on a second canvas like we did in the Paint Part II ICE. This second canvas could also be toggled on and off by the user.
     - Not everything has to be drawn at 60 frames/second - use `setInterval()` or similar to achieve this 
-    - Consider using motion detection or face tracking data to influence your visualization.
+    - Consider using motion detection or face tracking data to influence your visualization
 
 <a id="III"></a>
 
 ## III. Documentation
-  - Include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, you must give yourself an overall grade for the project that you feel fairly represents what its worth
-  - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
+  -  Both team members will individually submit final docs
+    - It's a good idea to document things as you are working on the project
+    - Consider setting up a google doc right away so that you can posts links and other information there as you are working.
+ - Elucidate how you met the 7 categories of requirements, and be specific about any extras you did - i.e. where you went "above and beyond"
+ - Discuss what went right and what went wrong. List what features you would have liked to add to the project if you'd had more time/energy
+ - Declare any non-course resources (libraries, sounds, images, tutorials, sample code) you utilized, in both your code comments, and in the final documentation of the project. Note: You don't have to document that you used the code I gave you in class.
+- Precisely detail the contributions of each partner to the overall project.
+- Grade yourself, your partner, and the overall project and justify it. Use a grade of 0-100%.
+ 
 
 <a id="IV"></a>
 
