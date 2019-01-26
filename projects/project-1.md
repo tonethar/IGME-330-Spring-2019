@@ -251,8 +251,6 @@ Note:
 <a id="VI"></a>
   
 ## VI. Screenshots
- 
-![screenshot](./_images/audio-pulse.jpg)
   
 ![screenshot](./_images/av-1.jpg)
    
@@ -263,6 +261,8 @@ Note:
 ![screenshot](./_images/glb-av.jpg)
 
 ![screenshot](./_images/life.jpg)
+
+![screenshot](./_images/audio-pulse.jpg)
 
 
 
