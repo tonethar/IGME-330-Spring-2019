@@ -10,8 +10,8 @@ II. [Project Requirements](#II)
   
   - A. [Functionality](#functionality)
   - B. [Design & Interaction](#design)
-  - C. [Canvas & Experience](#canvas)
-  - D. [WebAudio & Experience](#webaudio)
+  - C. [Canvas API & Experience](#canvas)
+  - D. [WebAudio API & Experience](#webaudio)
   - E. [HTML/CSS & Media](#media)
   - F. [Code](#code)
   - G. [Impact](#impact)
@@ -106,7 +106,7 @@ VI. [Submission](#VI)
 
 <a id="canvas"></a>
 
-### C. Canvas & Experience
+### C. Canvas API  & Experience
 1) Bitmap info fetched with `ctx.getImageData()` - will be manipulated with "Photoshopish" effects and then displayed to the user in some way using `ctx.putImageData()` -  ideally the user will be able to control or toggle the effects on and off. 
 2) Audio data (frequency or waveform) must be sampled and used to draw graphics on the canvas using the following methods:
     - Lines
@@ -123,7 +123,7 @@ VI. [Submission](#VI)
 
 <a id="webaudio"></a>
 
-### D. Web Audio & Experience
+### D. Web Audio API & Experience
 1) Give the user the ability to view both the frequency AND the waveform data (not necessarily simultaneously)
 2) Add at least one audio node (besides the analyser), and give the user the ability to manipulate it
 3) Be sure that the effect is *aesthetically pleasing* and not merely tacked on to meet a requirement
