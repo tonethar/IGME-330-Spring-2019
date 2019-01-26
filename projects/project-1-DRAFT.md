@@ -1,5 +1,15 @@
 # Project 1 - Audio Visualizer - *DRAFT*
 
+- [I. Overview](#I)
+- [II. Project Requirements](#II)
+- [III. Milestones](#III)
+- [IV. Documentation](#IV)
+- [V. Grading](#V)
+- [VI. Submission](#VI)
+
+<hr><hr>
+
+<a id="I">
 ## I. Overview
 
 - A) Your mission (optionally with a partner):
