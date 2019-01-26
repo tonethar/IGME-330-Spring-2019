@@ -175,6 +175,17 @@ V. [Submission](#V)
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
   - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
+  - Ideas to increase impact:
+    - Review [Week 5A - Tuning up our Audio Visualizers](../weekly/week-05A-notes.md)
+    - Your drawing doesn't have to be on a black background like the Audio Visualizer ICE is
+    - Certain drawing could go beyond the raw data for the various bins (frequency ranges), it could instead be aggregate data such as average loudness of all frequencies, or changes in the average of certain frequencies, or tied to beat detection.
+    - Moving sprites (like in SG-2) and in our in-class demos could change their direction/speed/behavior based on user control or the characteristics of the audio data
+    - You can use `ctx.scale()` to squash or stretch shapes - to create ovals for example
+    - The Audio Visualizer ICE redraws the entire canvas every turn. Consider NOT doing so, and allowing drawing to accumulate on the canvas - a moving sprite drawing a trail for example - and then the entire layer either slowly fading or being wiped and started over.
+    - The above could be implemented on a second canvas like we did in the Paint Part II ICE. This second canvas could also be toggled on and off by the user.
+    - Not everything has to be drawn at 60 frames/second - use `setInterval()` or similar to achieve this 
+    - Not all effects need be user controllable. Consider having certain effects toggle on and off or change every 5 to 10 seconds or so.
+    - Consider using motion detection or face tracking data to influence your visualization.
 
 <a id="III"></a>
 
