@@ -4,11 +4,12 @@
   - Resources
   - Examples
 - [II. Project Requirements](#II)
-  - Functional
-  - Design & Interaction
-  - HTML/CSS & Media
-  - Code
-  - Impact
+  - [A. Functionality](#functionality)
+  - [B. Design & Interaction](#design)
+  - [C. Canvas & Experience](#canvas)
+  - [D. HTML/CSS & Media](#media)
+  - [E. Code](#code)
+  - [F. Impact](#impact)
 - [III. Milestones](#III)
 - [IV. Documentation](#IV)
 - [V. Grading](#V)
@@ -78,31 +79,32 @@
 
 <a id="design"></a>
 
-### B. Design & Interaction
+### B. UI Design & Interaction
 - ***Throw out the AV exercise and start over. You may NOT reuse the HTML and CSS from that exercise. Instead, build a custom layout yourself.***
 
 1) Pleasing graphic design:
     - with a custom interface coded in HTML/CSS, by you
     - this interface does not resemble the AV homework's UI
-    - it MUST utilize a CSS framework or modern web layout technology - see section C. below
+    - it MUST utilize a CSS framework or modern web layout technology - see section D. below
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
 3) Users should be able to figure out how to use the app with minimal instruction:
     - be sure to provide instruction and tooltips if necessary
+    - setting the `title` attribute of an element gives us a tooltip - easy!
 4) User errors must be handled gracefully:
     - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
-5) Users must know what *state* the app is in at all times:
-    - for example, when they click the search button, there should some indication that a search is happening:
-      - text that says "Searching for 'Tacos' near you" and so on
-      - a "spinner" or other "indeterminate progress" animation --> [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
-      - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
-6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
-    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen
-    - The main controls of the application must fit in a 1024x768 window
+
+
+<a id="canvas"></a>
+
+### C. Canvas & Experience
+1) 
+
+
 
 <a id="media"></a>
 
-### C. HTML/CSS & Media
+### D. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
     - Use HTML5 semantic and structural elements where practical
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
@@ -121,7 +123,7 @@
 
 <a id="code"></a>
 
-### D. Code Requirements
+### E. Code Requirements
 1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
     - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
 2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
@@ -151,7 +153,7 @@
 
 <a id="impact"></a>
 
-### E. Impact
+### F. Impact
   - Does the app work as intended and do something useful?
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
