@@ -22,6 +22,8 @@ IV. [Grading](#IV)
 
 V. [Submission](#V)
 
+VI. [Screenshots](#VI)
+
 <hr><hr>
 
 <a id="I"></a>
@@ -195,7 +197,7 @@ V. [Submission](#V)
 
 <a id="IV"></a>
 
-## IV. Grading
+## IV. Grading (\*TO DO\*)
   - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 Your project will be graded on the following criteria:
@@ -203,34 +205,22 @@ Your project will be graded on the following criteria:
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
 | **A. [Functionality](#functionality)** | **40** | |
-|    1. TWO web services are used | |
-|    2. Cloud storage is used | |
-|    3. Last term searched stored in browser  | |
-|    4. Has required Controls | |
-|    5. Runs without errors | |
-|    - *Missing web services* | *(-20 each)* |
-|    - *Missing cloud storage or **admin.html*** | *(-10)* |
-|    - **admin.html** uses DOM manipulation instead of Vue.js | *(-5)* |
-|    - *Does not remember last search term* | *(-10)* |
+|    1. Has required Controls | |
+|    2. Runs without errors | |
 |    - *Missing controls* | *(-10 each)* |
 |    - *Errors* | *(-? depending on severity)* |
 | **B. [Design & Interaction](#design)** | **20** | |
 |    1. Visual design is pleasing | |
 |    2. Widgets are well labeled and follow interface conventions | |
 |    3. Users should be able to figure out how to use the app with minimal instruction | |
-|    4. User errors must be handled gracefully | |
-|    5. The *state* the application is in is obvious | |
-|    6. The app should look good on a range of displays. | |
-|    - *Interface looks like GIF Finder HW* | *(-15)* |
+|    4. The app should look good on a range of displays. | |
+|    - *Interface looks like AV HW* | *(-15)* |
 |    - *Interface "broken" at 1024x768 or higher resolutions* | *(-10)* |
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
 | **D. [Code](#code)**  | **10** | |
-|    1. MVVM Framework used | |
-|    2. Ajax used | |
-|    3. *ES6 Custom Class not used* | *(-5)* |
 |    4. *Conventions NOT followed* | *(-5 per incident)* |
 |    5. *Code that is NOT allowed* | *(-5 per incident)* |
 | **E. [Impact](#impact)**  | **10** | |
@@ -242,10 +232,7 @@ Your project will be graded on the following criteria:
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required proposal/prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
-| *Deduction if MVVM framework "created by you" component is missing* | *(-10)* | |
-| *Deduction if MVVM framework is not used* | *(-30)* | |
 | *Deduction if app does not function when deployed to web* | *(-15)* | |
-| *Deduction if students does not attend finals week meeting to present app to either class or professor* | *(-15)* | |
 
 Note:
 - **Good** (Meet all requirements above reasonably well) = 90%
@@ -260,6 +247,16 @@ Note:
     - see myCourses for due date/time & submission instructions
     - one submission per team please. Make sure both team members' names are included
   - Final project deliverable - see myCourses for due date/time and submission instructions. One submission per team please. Again, make sure both team member's names are included
+  
+<a id="VI"></a>
+  
+## V. Screenshots
+ 
+![screenshot](./_images/p1-1.jpg)
+  
+![screenshot](./_images/p1-2.jpg)
+   
+![screenshot](./_images/p1-3.jpg)
 
 
 
