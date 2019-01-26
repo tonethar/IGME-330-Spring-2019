@@ -4,6 +4,11 @@
   - Resources
   - Examples
 - [II. Project Requirements](#II)
+  - Functional
+  - Design & Interaction
+  - HTML/CSS & Media
+  - Code
+  - Impact
 - [III. Milestones](#III)
 - [IV. Documentation](#IV)
 - [V. Grading](#V)
