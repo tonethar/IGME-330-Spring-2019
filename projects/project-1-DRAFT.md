@@ -71,7 +71,7 @@
 4. Ideas for optional controls:
     - Mouse control (clicking or moving the mouse changes how the visualizer looks)
     - Web Cam input changes how the visualizer looks
-    - The user can load their own tracks using drag-and-drop or the [`File` API](https://developer.mozilla.org/en-US/docs/Web/API/File)
+    - The user can load their own tracks using [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) or the [HTML `File` API](https://developer.mozilla.org/en-US/docs/Web/API/File)
     
 
 
