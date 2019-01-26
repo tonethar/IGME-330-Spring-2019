@@ -39,18 +39,18 @@
   - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md) - *there is no dropbox for this and it will not be collected. But this is where some very helpful info on adding audio effect nodes to the visualizer (which is a requirement of the final project submission) is given to you.*
   
  - D) Examples:
-  - [Project 1 Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
-  - Here are some examples from 2171 & 2175 (most run best in Chrome):
-    - https://mcs2515.github.io/Magical_Visualizer/#
-    - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
-    - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
-    - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
-    - https://people.rit.edu/etn6701/330/Project%201/
-    - https://people.rit.edu/pfw4498/330/projects/audioViz/wilsonAudioVizProject.html
-    - https://people.rit.edu/sbm7101/330/projects/MayerWalker_AudioViz/WalkerMayer_AudioViz.html
-    - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
-    - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
-    - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
+   - [Project 1 Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
+   - Here are some examples from 2171 & 2175 (most run best in Chrome):
+     - https://mcs2515.github.io/Magical_Visualizer/#
+     - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
+     - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
+     - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
+     - https://people.rit.edu/etn6701/330/Project%201/
+     - https://people.rit.edu/pfw4498/330/projects/audioViz/wilsonAudioVizProject.html
+     - https://people.rit.edu/sbm7101/330/projects/MayerWalker_AudioViz/WalkerMayer_AudioViz.html
+     - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
+     - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
+     - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
  
 <a id="II"></a>
 
