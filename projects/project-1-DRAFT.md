@@ -8,19 +8,13 @@ I. [Overview](#I)
   
 II. [Project Requirements](#II)
   
-  A. [Functionality](#functionality)
-  
-  B. [Design & Interaction](#design)
-  
-  C. [Canvas & Experience](#canvas)
-  
-  D. [WebAudio & Experience](#webaudio)
-  
-  E. [HTML/CSS & Media](#media)
-  
-  F. [Code](#code)
-  
-  G. [Impact](#impact)
+  - A. [Functionality](#functionality)
+  - B. [Design & Interaction](#design)
+  - C. [Canvas & Experience](#canvas)
+  - D. [WebAudio & Experience](#webaudio)
+  - E. [HTML/CSS & Media](#media)
+  - F. [Code](#code)
+  - G. [Impact](#impact)
   
 III. [Milestones](#III)
 
