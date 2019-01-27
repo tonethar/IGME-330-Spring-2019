@@ -235,7 +235,7 @@ Your project will be graded on the following criteria:
 |    3. Users should be able to figure out how to use the app with minimal instruction | |
 |    4. The app should look good on a range of displays. | |
 |    - *Interface is clean and functional but not particularly attractive* | *(-1 to -5)* |
-|    - *Interface looks like AV HW* | *(-15)* |
+|    - *Interface looks like AV Homework's* | *(-15)* |
 |    - *Interface "broken" at 1024x768 resolution* | *(-10)* |
 | **C. [Canvas API & Experience](#canvas)**  | **15** | |
 |    - *Missing required elements* | *(-5 each)* |
