@@ -131,7 +131,7 @@ VI. [Screenshots](#VI)
 
 ### D. Web Audio API & Experience
 1) Give the user the ability to view both the frequency AND the waveform data (not necessarily simultaneously)
-2) Add at least one audio node (besides the analyser), and give the user the ability to manipulate it
+2) Add at least one audio effect node (besides the analyser), and give the user the ability to manipulate it
 3) Be sure that the effect is *aesthetically pleasing* and not merely tacked on to meet a requirement
 
 <a id="media"></a>
