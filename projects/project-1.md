@@ -111,7 +111,7 @@ VI. [Screenshots](#VI)
     - it MUST utilize a CSS framework or modern web layout technology - see section D. below
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
-3) Users should be able to figure out how to use the app with minimal instruction, and yser errors must be handled gracefully:
+3) Users should be able to figure out how to use the app with minimal instruction, and user errors must be handled gracefully:
     - be sure to provide instruction and tooltips if necessary
     - setting the `title` attribute of an element gives us a tooltip - easy!
 
