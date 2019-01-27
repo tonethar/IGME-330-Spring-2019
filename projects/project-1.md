@@ -55,6 +55,7 @@ VI. [Screenshots](#VI)
   - [Canvas Image Data Demo](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-canvas-image-data.md)
   - [More Web Audio](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-more-web-audio.md)
   - [Week 5A - Tuning up our Audio Visualizers](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-05A-notes.md)
+  - [Week 6A - JavaScript's *Revealing Module Pattern*](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-06A-notes.md)
   
 <a id="examples"></a> 
 
@@ -163,12 +164,12 @@ VI. [Screenshots](#VI)
 ### F. Code Requirements
 1) Conventions and structure:
     - All code is an external JavaScript files
-    - ES5 revealing module pattern is required
     - `let` and `const` must be used by defualt to declare variables - only use `var` for optimizations
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
-2) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
+2) The use of the ES5 *Revealing Module Pattern* is required
+3) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
    - examples of acceptable use for this project:
      - copying and lightly modifying code for an emboss effect - https://www.i-programmer.info/programming/graphics-and-imaging/2078-canvas-bitmap-operations-bitblt-in-javascript.html?start=2
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
@@ -257,9 +258,8 @@ Your project will be graded on the following criteria:
 | *Deduction if missing an embedded font* | *(-5)* | |
 | *Deduction if missing a CSS framework or modern web layout* | *(-10)* | |
 | *Deduction if missing ES5 Revealing Module Pattern* | *(-10)* | |
-| *Deduction if required proposal/prototype is not submitted to dropbox on time* | *(-10)* | |
-| *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
-| *Deduction if app does not function when deployed to web* | *(-15)* | |
+| *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
 
 Note:
 - **Good** (Meet all requirements above reasonably well) = 90%
