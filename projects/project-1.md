@@ -163,9 +163,9 @@ VI. [Screenshots](#VI)
 
 ### F. Code Requirements
 1) Conventions and structure:
-    - All code is an external JavaScript files
-    - `let` and `const` must be used by defualt to declare variables - only use `var` for optimizations
-    - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
+    - All code is in external JavaScript files
+    - `let` and `const` must be used by default to declare variables - only use `var` for optimizations
+    - **D.R.Y.** - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
 2) The use of the ES5 *Revealing Module Pattern* is required
