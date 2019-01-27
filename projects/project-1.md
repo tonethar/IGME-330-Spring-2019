@@ -71,6 +71,10 @@ VI. [Screenshots](#VI)
      - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
      - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
      - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
+   - 2165 and older:
+     - Disco Skeleton --> https://people.rit.edu/arw2013/prototype/Prototype2.html
+     - Conway's Game of Life Visalizer --> https://www.csh.rit.edu/~aidan/audioVisualizer/index.html
+     - https://people.rit.edu/las3914/330/project_01/audio-visualizer/
  
 <a id="II"></a>
 
