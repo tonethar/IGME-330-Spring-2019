@@ -238,15 +238,17 @@ Your project will be graded on the following criteria:
 |    - *Interface looks like AV HW* | *(-15)* |
 |    - *Interface "broken" at 1024x768 resolution* | *(-10)* |
 | **C. [Canvas API & Experience](#canvas)**  | **15** | |
-|    - *Missing required elements | *(-5 each)* |
+|    - *Missing required elements* | *(-5 each)* |
 | **D. [WebAudio API & Experience](#webaudio)**  | **15** | |
-|    - *Missing required elements | *(-5 each)* |
+|    - *Missing required elements* | *(-5 each)* |
 | **E. [HTML/CSS/Media](#media)**  | **5** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
+|    - *Majority of CSS not in external file* | *(-5)* |
 | **F. [Code](#code)**  | **5** | |
 |    1. *Conventions NOT followed* | *(-1 to -5)* |
+|    2. *Inline event handlers used* | *(-5)* |
 | **G. [Impact](#impact)**  | **25** | |
 |    - Is the app work as intended and visually engaging? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
