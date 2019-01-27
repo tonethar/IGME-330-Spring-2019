@@ -1,4 +1,4 @@
-# Week 6A - JavaScript's *Revealing Module Pattern*
+# Week 6A - JavaScript ES5 *Revealing Module Pattern*
 
 ## I. Overview & Presentation
 - In the first part of today's demo, we will take a previous demo where all of the JS code is contained in the HTML file and split the code between 3 JS files, which will improve the readability and organization of the code.
