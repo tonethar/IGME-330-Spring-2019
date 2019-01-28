@@ -11,7 +11,7 @@ Today we will:
     - BTW - arrow functions don't bind their own `this` -  `this` in an arrow function instead binds to its **lexical scope** (aka static scope) that is determined by where the code is written
   - `drawBox()`- pass color data via an HTML5 custom data attributes:
     - we briefly covered HTML5 custom data attributes in IGM-230 - see [web-apps-6.md#section7](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-6.md#section7)
-    - how to do this? You need to create an attribute named `data-color`, and then access it with `getAttribute("data-color")`
+    - how to do this? You need to create an attribute named `data-color`, and then access it with `getAttribute("data-color")` or `dataset.color`
 - review [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
   - to draw the squares, circles, and polygons, this requires a good understanding of `ctx.translate()`, `ctx.rotate()` and `ctx.scale()` as well as `ctx.save()` and `ctx.restore()`
   - note how we can flip the text along its horizontal or vertical axis with `ctx.scale(-1,1)` or `ctx.scale(1,-1)`
