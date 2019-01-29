@@ -1,7 +1,7 @@
-# Week 3A - Review recent HW & Build a paint app
+# Week 3A - Review recent HW 
 
 
-## I. Presentation
+## I. Upcomimg Homework
 - Let's quickly talk about [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
 
 ## II. Review
