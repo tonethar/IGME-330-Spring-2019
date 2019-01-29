@@ -6,7 +6,7 @@
 
 ## II. Review
 Today we will:
-- (time allowing) - review rotation and translation by creating a working canvas clock --> [Demo - Canvas Clock](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-canvas-clock.md)
+- (time allowing) - review canvas rotation and translation by creating a working canvas clock --> [Demo - Canvas Clock](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-canvas-clock.md)
 - review [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md) - an important concept is how to pass data *from* HTML elements *to* your JavaScript - there are several approaches that work - we will look at 5 of them:
   - `drawBox()`- pass color data inside an anonymous wrapper function
   - `drawBox()`- pass data from an `onclick` attribute of the button (but the mixing of HTML & code is not generally recommended)
