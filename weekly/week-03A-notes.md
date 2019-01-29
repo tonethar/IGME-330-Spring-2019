@@ -25,7 +25,8 @@ Today we will:
   - A **gradient** specifies a starting color, an ending color, and an area over which color changes. A single gradient can encompass more than one color change
     - linear gradient - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/createLinearGradient
     - radial gradient - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/createRadialGradient
-    - see demo code below
+    - see demo code below:
+      - how can we get a gradient flowing from left to right? Right to left? Top to Bottom? Diagonally?
   - bezier curves:
       - `ctx.quadraticCurveTo(ctrlX, ctrlY, endX, endY)` draws bezier curves with 1 control point
       - `ctx.bezierCurveTo(ctrlX, ctrlY, ctrlXa, ctrlYa, endX, endY)` draws cubic bezier curves with 2 control points
