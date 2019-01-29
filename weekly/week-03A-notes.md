@@ -98,6 +98,14 @@ Today we will:
 </html>
 ```
 
+## IV. Videos of lecture & demos
+
+We aren't always going to have video links, but here is a re-cap of today's major topics:
+
+- [Week 3A - Shape Viewer-part-I - (13:25)](https://video.rit.edu/Watch/Sb6f5E3R)
+- [Week 3A - Shape Viewer-part-II - (12:51)](https://video.rit.edu/Watch/Fw84Kid3)
+- [Week 3A - Gradients - (11:45)](https://video.rit.edu/Watch/s8FSy64T)
+- [Week 3A - Animating Curves - (11:07)](https://video.rit.edu/Watch/Ay94Cpo7)
 
 
 <hr><hr>
