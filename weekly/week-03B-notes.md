@@ -328,6 +328,14 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Compositing/Example
 
 
+## VII. Lecture Videos
+
+- [Week 3B - Intro (03:50)](https://video.rit.edu/Watch/d7BZf54H)
+- [Week 3B - Drawing Images (18:44)](https://video.rit.edu/Watch/c3R4ZrSk)
+- [Week 3B - Compositing Images (13:31)](https://video.rit.edu/Watch/Qi8c4X9G)
+
+
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
