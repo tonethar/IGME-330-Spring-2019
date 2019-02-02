@@ -85,7 +85,8 @@ VI. [Screenshots](#VI)
 
 ### A. Functional Requirements
 1. Required Controls:
-    - The &lt;audio> element and its progress indicators, and standard play, pause, scrub, and volume controls. Optionally, you are allowed to omit this element and create custom controls that give the same functionality
+    - The &lt;audio> element and the controls that we added in the Audio Visualizer exercises (play/pause and volume)
+    - a progress indicator - either in digital format such as `01:22` or as a playhead
     - At least 3 sliders
     - At least 3 checkboxes
     - At least 1 radio button group
