@@ -86,7 +86,7 @@ VI. [Screenshots](#VI)
 ### A. Functional Requirements
 1. Required Controls:
     - The &lt;audio> element and the controls that we added in the Audio Visualizer exercises (play/pause and volume)
-    - a progress indicator - either in digital format such as `01:22` or as a playhead
+    - a progress indicator - either in digital format such as `01:22` or as a graphical playhead
     - At least 3 sliders
     - At least 3 checkboxes
     - At least 1 radio button group
@@ -137,7 +137,7 @@ VI. [Screenshots](#VI)
 
 ### D. Web Audio API & Experience
 1) Give the user the ability to view both the frequency AND the waveform data (not necessarily simultaneously)
-2) Add at least one audio effect node (besides the analyser), and give the user the ability to manipulate it
+2) Add at least one audio effect node (besides the analyser and gain nodes that were given to you), and give the user the ability to manipulate it
 3) Be sure that the effect is *aesthetically pleasing* and not merely tacked on to meet a requirement
 
 <a id="media"></a>
