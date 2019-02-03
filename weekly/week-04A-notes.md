@@ -7,7 +7,6 @@
 - [Project 1 - Audio Visualizer](../projects/project-1.md)
 
 ## III. Presentation
-- [Demo - IIFE ("Immediately Invoked Function Expression")](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-iife.md)
 - [Demo - Web Audio API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
 - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
 
