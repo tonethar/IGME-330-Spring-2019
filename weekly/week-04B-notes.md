@@ -5,9 +5,10 @@
 - To see more advanced effects such as *embossing*, refer to Part II of the Audio Visualizer HW.
 
 ## II. Presentation
-- [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
-- [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md)
 - [Demo - Sprite Literals and Canvas Image Data](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-canvas-image-data.md)
+- [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md) - we will loook at the webcam demos in class (and these files are in mycourses)
+- [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md)
+
 
 
 <hr><hr>
