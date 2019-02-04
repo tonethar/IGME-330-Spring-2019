@@ -1,6 +1,7 @@
 # Week 4A - Web Audio API & Canvas Visualizer
 
 ## I. Overview
+- Look at [Canvas Helpers HW (optional)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
 - Review [Drawing App HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
 
 ## II. Required Reading & Assignments
