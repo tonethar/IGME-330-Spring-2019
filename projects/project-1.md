@@ -1,4 +1,4 @@
-# Project 1 - Audio Visualizer - *DRAFT*
+# Project 1 - Audio Visualizer
 
 I. [Overview](#I)
   
@@ -221,7 +221,7 @@ VI. [Screenshots](#VI)
 
 <a id="IV"></a>
 
-## IV. Grading (\*TO DO\*)
+## IV. Grading
 
 Your project will be graded on the following criteria:
 
