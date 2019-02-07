@@ -9,6 +9,11 @@
 - [Demo - Sprite Literals and Canvas Image Data](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-canvas-image-data.md)
 - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md) - this is for reference and will help you on Project 1, but we are not collecting it
 
+
+## III. Reference
+- https://www.html5rocks.com/en/tutorials/canvas/imagefilters/
+- http://html5doctor.com/video-canvas-magic/
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
