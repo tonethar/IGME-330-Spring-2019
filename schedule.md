@@ -49,12 +49,12 @@
   - [Week 7 - Intro to ES6 Classes and Modules](weekly/week-07-notes.md)
  
 ## <a id="week8">Week 8 : Catchup & Midterm Exam
-  - [Week 8 - More ES6 Classes and Modules](weekly/week-08A-notes.md)
-  - [Week 8 - Midterm Exam](weekly/week-08B-notes.md)
+  - [Week 8A - More ES6 Classes and Modules](weekly/week-08A-notes.md)
+  - [Week 8B - Midterm Exam](weekly/week-08B-notes.md)
   
 ## <a id="week9">Week 9 :  ES6 Modules & Transpiling
-  - [Week 9 - ES6 Modules](weekly/week-09A-notes.md)
-  - [Week 9 - Transpiling ES6>ES5](weekly/week-09B-notes.md) 
+  - [Week 9A - ES6 Modules](weekly/week-09A-notes.md)
+  - [Week 9B - Transpiling ES6>ES5](weekly/week-09B-notes.md) 
   
 ## <a id="week10">Week 10 : Catch up & Work on Project 2
    - [Week 10A - ES6 Objects Review](weekly/week-10A-notes.md)
