@@ -2,7 +2,7 @@
 
 ## I. Overview
 - catch up
-- Look at [Project 1 - Audio Visualizer](../projects/project-1.md) Prototypes
+- Look at [Project 1 - Audio Visualizer](../projects/project-1.md) prototypes
 
 
 
