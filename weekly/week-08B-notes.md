@@ -1,8 +1,8 @@
 # Week 8B - Midterm Exam
 
 - Don't be late
+- Bring 2 pencils (or bring a pen and don't make any mistakes)
 - No makeups will be give without prior approval by professor
-- Students in 330-01 (online section): See mycourses for date/time of exam
 
 <hr><hr>
 
