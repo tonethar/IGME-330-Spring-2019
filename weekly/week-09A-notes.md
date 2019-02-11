@@ -1,4 +1,4 @@
-# Week 9A - Review Exam & ES6 Modules
+# Week 9A - Review Exam & Computational Text Libraries
 
 <a id="review"></a>
 ## I. Review Exam, and touch on major concepts
@@ -23,7 +23,6 @@
   - Objects: literals, methods, classes
   
 ## II. New Stuff needed for Project 2
-  - ES6 Modules --> [canvas-sprites-4.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-4.md)
 
 <hr><hr>
 
