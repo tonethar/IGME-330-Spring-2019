@@ -1,4 +1,4 @@
-# Week 7 - Look at Project 1 Submissions
+# Week 7A - Look at Project 1 Submissions
 
 ## I. Overview & Agenda
 - ***The midterm exam is next week!*** Here are some study resources:
