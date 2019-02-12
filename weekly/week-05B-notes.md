@@ -18,6 +18,14 @@
 - https://toddmotto.com/mastering-the-module-pattern/
 
 
+## IV. Videos of lecture & demos
+
+We aren't always going to have video links, but here is a re-cap of today's major topics:
+
+- [Week 5B - IIFE - Part I - (07:44)](https://video.rit.edu/Watch/q9F7GkXy)
+- [Week 5B - IIFE - Part II - (06:51)](https://video.rit.edu/Watch/m2EFo6g8)
+
+
 
 
 <hr><hr>
