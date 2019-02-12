@@ -6,12 +6,12 @@
 - Today we are going to look at two ES5 ways to write more modular code - see below!
   - [Demo - IIFE ("*Immediately Invoked Function Expression*")](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-iife.md)
   - [Demo - ES5 *Revealing Module Pattern*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-revealing-module-pattern.md)
+- Why else should you care? One of the requirements of Project 1 is to utilize the ES5 *Revealing Module Pattern*
 
 ## II. Reference
 - https://en.wikipedia.org/wiki/Immediately-invoked_function_expression
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript
 - https://toddmotto.com/mastering-the-module-pattern/
-
 
 ## III. Videos of lecture & demos
 
