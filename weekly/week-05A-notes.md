@@ -21,7 +21,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 1. Why do we step through the image data array 4 elements at a time?
 1. Describe how to implement a *brightness* filter
 
-### II-C. Other
+### II-C. Other (oops! we cover this next time!)
 1. What does **IIFE** stand for?
 1. What is the primary benefit of using an IIFE in your JS code?
 
