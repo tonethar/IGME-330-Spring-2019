@@ -20,7 +20,7 @@ We aren't always going to have video links, but here is a re-cap of today's majo
 - [Week 5B - IIFE - Part I - (07:44)](https://video.rit.edu/Watch/q9F7GkXy)
 - [Week 5B - IIFE - Part II - (06:51)](https://video.rit.edu/Watch/m2EFo6g8)
 - [Week 5B - Revealing Module Pattern Part I - (20:52)](https://video.rit.edu/Watch/x5X3Jof9)
-- [Week 5B - Revealing Module Pattern Part II - (11:09)](https://video.rit.edu/Watch/e6T9Ajx2)
+- <s>[Week 5B - Revealing Module Pattern Part II - (11:09)](https://video.rit.edu/Watch/e6T9Ajx2)</s>
 - [Week 5B - Revealing Module Pattern Part III - (18:04)](https://video.rit.edu/Watch/x9J8FfDb)
 
 
