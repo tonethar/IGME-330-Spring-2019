@@ -2,7 +2,7 @@
 
 ## I. Overview & Presentation
 
-- Are you sick of writing all of ypur code in one file and jamming everything into the global scope? ***You should be!***
+- Are you sick of writing all of your code in one file and jamming everything into the global scope? ***You should be!***
 - Today we are going to look at two ES5 ways to write more modular code - see below!
   - [Demo - IIFE ("*Immediately Invoked Function Expression*")](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-iife.md)
   - [Demo - ES5 *Revealing Module Pattern*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-revealing-module-pattern.md)
