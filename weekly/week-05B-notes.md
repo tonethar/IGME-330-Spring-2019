@@ -7,6 +7,7 @@
   - [Demo - IIFE ("*Immediately Invoked Function Expression*")](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-iife.md)
   - [Demo - ES5 *Revealing Module Pattern*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-revealing-module-pattern.md)
 - Why else should you care? One of the requirements of Project 1 is to utilize the ES5 *Revealing Module Pattern*
+- PS - We will be looking at [ES6 modules](http://exploringjs.com/es6/ch_modules.html) in a few weeks!
 
 ## II. Reference
 - https://en.wikipedia.org/wiki/Immediately-invoked_function_expression
