@@ -1,7 +1,7 @@
 # Week 6B - ES5/ES6 "Sprites" & Delegation
 
 ## Overview
-- Sprites (using either Object literals, or ES6 classes) are an optional component of Project 1, and whether you use them or not on your project, understanding how the JavaScript runtime engines represent classes and objects is important for developers
+- Sprites (using either Object literals, or ES6 classes) are an optional component of Project 1, and whether you use them or not on your project, understanding how the JavaScript runtime engines represent classes and objects is critical for JS developers to understand.
 
 
 ## II. Lecture Notes
