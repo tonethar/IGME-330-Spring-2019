@@ -40,6 +40,14 @@
 - The [revealing module pattern example](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-revealing-module-pattern.md) we worked with created sprite objects by utilizing ES5 object literals and a factory function
 - Your mission: take either the start or end version of the code (it doesn't matter which) and modify the `createSprites()` function to utilize ES6 class syntax
 
+## IV. Videos of lecture & demos
+
+We aren't always going to have video links, but here is a re-cap of today's major topics:
+
+- [Objects Part I  - Literals Factory Functions(14:40)](https://video.rit.edu/Watch/Jc7k9LPx)
+- [Objects Part II - ES5 Delegation - (16:03)](https://video.rit.edu/Watch/Eb67XqZd)
+- [Objects Part III - ES6 Classes - (13:59)](https://video.rit.edu/Watch/m9KRj43F)
+
 
 
 <hr><hr>
