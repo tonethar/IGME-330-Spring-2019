@@ -44,9 +44,9 @@
 
 We aren't always going to have video links, but here is a re-cap of today's major topics:
 
-- [Objects Part I  - Literals Factory Functions(14:40)](https://video.rit.edu/Watch/Jc7k9LPx)
-- [Objects Part II - ES5 Delegation - (16:03)](https://video.rit.edu/Watch/Eb67XqZd)
-- [Objects Part III - ES6 Classes - (13:59)](https://video.rit.edu/Watch/m9KRj43F)
+- [Objects Part I  - Literals Factory Functions (14:40)](https://video.rit.edu/Watch/Jc7k9LPx)
+- [Objects Part II - ES5 Delegation (16:03)](https://video.rit.edu/Watch/Eb67XqZd)
+- [Objects Part III - ES6 Classes (13:59)](https://video.rit.edu/Watch/m9KRj43F)
 
 
 
