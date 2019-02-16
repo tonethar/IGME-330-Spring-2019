@@ -1,6 +1,8 @@
 # Week 6B - ES5/ES6 "Sprites" & Delegation
 
 ## Overview
+- Sprites (using either Object literals, or ES6 classes) are an optional component of Project 1, and whether you use them or not on your project, understanding how the JavaScript runtime engines represent classes and objects is important for developers
+
 
 ## II. Lecture Notes
 - [1 - Intro to Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-1.md)
@@ -33,7 +35,10 @@
     - POLL: do you prefer ES5 delegation, or ES6 classes?
     
 
+## III. Demo/Challenge in Time Remaining
 
+- The [revealing module pattern example](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-revealing-module-pattern.md) we worked with created sprite objects by utilizing ES5 object literals and a factory function
+- Your mission: take either the start or end version of the code (it doesn't matter which) and modify the `createSprites()` function to utilize ES6 class syntax
 
 
 
