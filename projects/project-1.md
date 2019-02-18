@@ -56,7 +56,7 @@ VI. [Screenshots](#VI)
   - [More Web Audio](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-more-web-audio.md)
   - [Week 5A - Tuning up our Audio Visualizers](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-05A-notes.md)
   - [IIFE Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-iife.md)
-  - [Week 6A - JavaScript ES5 *Revealing Module Pattern*](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-06A-notes.md)
+  - [Week 6B - JavaScript ES5 *Revealing Module Pattern*](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-06B-notes.md)
   
 <a id="examples"></a> 
 
