@@ -37,7 +37,7 @@
 
 ## III. Demo/Challenge in Time Remaining
 
-- See mycourses for the start files. This example utilizes ES5 literal sprite objects that move according to web audio frequency data. Our mission:
+See mycourses for the start files. This example utilizes ES5 literal sprite objects that move according to web audio frequency data. Our mission:
  - using the debugger, check out the object literals in `spriteArray` to see what they look like
  - make a copy of `ES-5-sprite-literals.html` and name it `ES6-circle-class.html`:
    - Now re-write the `createSprites()` function, get rid of the object literals, and instead use an ES6 class named `CircleSprite`
