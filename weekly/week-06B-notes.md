@@ -9,7 +9,7 @@
   - First we try to build a sprite object using script-scoped variables such as `x`, `y`, `radius`, `color`  - BAD!
   - then we group these variables into an object literal - BETTER!
   - lastly we create a factory function to produce multiple object literals - BEST!
-  - take a look in the web inspector to see these objects and the default *prototype chains* created via the `__proto__` - i.e. "dunder proto" property - http://2ality.com/2012/10/dunder.html - we will discuss  *prototype* chains soon
+  - take a look in the web inspector to see these objects and the default *prototype chains* created via the `__proto__` - i.e. "dunder proto" property - http://2ality.com/2012/10/dunder.html - we will discuss  *prototype* chains in chapter 2 below
   - isn't this inefficient, storing multiple copies of all of these properties and methods?
     - In a class-based environment, each instance of a class would have their own copies of instance variables (like `x` and `y`), but share all of the methods (like `move()`, `reflectX()`, and `reflectY()`)
     - interestingly, all major JavaScript engines already perform this optimization on object literals, and basically generate a "super class/super object" for you. The concept is called *shapes*, and you can read about it here: https://mathiasbynens.be/notes/shapes-ics
@@ -37,8 +37,17 @@
 
 ## III. Demo/Challenge in Time Remaining
 
-- The [revealing module pattern example](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-revealing-module-pattern.md) we worked with created sprite objects by utilizing ES5 object literals and a factory function
-- Your mission: take either the start or end version of the code (it doesn't matter which) and modify the `createSprites()` function to utilize ES6 class syntax
+- See mycourses for the start files. This example utilizes ES5 literal sprite objects that move according to web audio frequency data. Our mission:
+ - using the debugger, check out the object literals in `spriteArray` to see what they look like
+ - make a copy of `ES-5-sprite-literals.html` and name it `ES6-circle-class.html`:
+   - Now re-write the `createSprites()` function, get rid of the object literals, and instead use an ES6 class named `CircleSprite`
+   - using the debugger, check out the `CircleSprite`s in `spriteArray` to see what they look like
+ - make a copy of `ES6-circle-class.html` and name it `ES6-inheritance.html`:
+   - create a class that `CircleSprite` will inherit from named `DisplayObject`, and give it `x`, `y`, `height`, `width` properties, and an empty `draw()` method
+   - using the debugger, check out the `CircleSprite`s in `spriteArray` to see what they look like - can you see the "prototype chain" in action?
+ - (time allowing, and there probably isn't any left) make a copy of `ES6-inheritance.html` and name it `ES6-square-class.html`:
+   - create a class named `SquareSprite` that inherits from  `DisplayObject`
+   - have it draw itself as a rectangle, and rotate around its center axis every frame
 
 ## IV. Videos of lecture & demos
 
