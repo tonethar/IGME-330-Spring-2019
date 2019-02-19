@@ -43,7 +43,7 @@ See mycourses for the start files. This example utilizes ES5 literal sprite obje
    - Now re-write the `createSprites()` function, get rid of the object literals, and instead use an ES6 class named `CircleSprite`
    - using the debugger, check out the `CircleSprite`s in `spriteArray` to see what they look like
  - make a copy of `ES6-circle-class.html` and name it `ES6-inheritance.html`:
-   - create a class that `CircleSprite` will inherit from named `DisplayObject`, and give it `x`, `y`, `height`, `width` properties, and an empty `draw()` method
+   - create a class that `CircleSprite` will inherit from named `DisplayObject`, and give it `x`, `y`, `height`, `width`, `fwd`, and `speed` properties, and an empty `draw()` method
    - using the debugger, check out the `CircleSprite`s in `spriteArray` to see what they look like - can you see the "prototype chain" in action?
  - (time allowing, and there probably isn't any left) make a copy of `ES6-inheritance.html` and name it `ES6-square-class.html`:
    - create a class named `SquareSprite` that inherits from  `DisplayObject`
