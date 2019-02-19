@@ -48,6 +48,7 @@ See mycourses for the start files. This example utilizes ES5 literal sprite obje
  - (time allowing, and there probably isn't any left) make a copy of `ES6-inheritance.html` and name it `ES6-square-class.html`:
    - create a class named `SquareSprite` that inherits from  `DisplayObject`
    - have it draw itself as a rectangle, and rotate around its center axis every frame
+   - check out the lengthening "prototype chain"
 
 ## IV. Videos of lecture & demos
 
