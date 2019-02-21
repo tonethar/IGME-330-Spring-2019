@@ -3,9 +3,7 @@
 ## I. Overview
 
 **When:**
-- Section 01 - multiple times, see mycourses for the time/location you signed up for
-- Section 02 - Thursday 10/18 @ 2PM
-- Section 03 - Thursday 10/18 @ 5PM
+- Thursday 3/7/19 - start of class
 
 **What is tested:**
 - Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game - from [week 1A](../weekly/week-01A-notes.md) to [week 7](../weekly/week-07-notes.md)
