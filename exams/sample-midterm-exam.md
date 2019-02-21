@@ -247,7 +247,7 @@ x = {name: "Jane"};
 
 <hr/>
 
-31. Describe what `ctx.save()` and `ctx.restore()` do in canvas?
+31. Describe what `ctx.save()` and `ctx.restore()` do in canvas
 
 <hr/>
 
@@ -272,11 +272,11 @@ ctx.fillRect(20,20,100,100);
 
 <hr/>
 
-33. Describe the characteristics of *raster-based* images?
+33. Describe the characteristics of *raster-based* images
 
 <hr/>
 
-34. Describe the characteristics of *vector-based* images?
+34. Describe the characteristics of *vector-based* images
 
 <hr/>
 
