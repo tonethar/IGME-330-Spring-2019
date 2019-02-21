@@ -31,6 +31,7 @@
 - [week-01A-notes.md#review-questions](../weekly/week-01A-notes.md#review-questions)
 - [week-02A-notes.md#review-questions](../weekly/week-02A-notes.md#review-questions)
 - [week-05A-notes.md#review-questions](../weekly/week-05A-notes.md#review-questions)
+- [week-06A-notes.md#review-questions](../weekly/week-06A-notes.md#review-questions)
 
 ## V. Topics
 
