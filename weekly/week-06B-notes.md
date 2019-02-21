@@ -2,6 +2,7 @@
 
 ## Overview
 - Sprites (using either Object literals, or ES6 classes) are an optional component of Project 1, and whether you use them or not on your project, understanding how the JavaScript runtime engines represent classes and objects is critical for JS developers to understand.
+- We will also review ES6 classes, and how to construct a class hierarchy. We will then spend some time in the debugger to see how the JavaScript runtime represents objects - both those created as literals and those created from classes.
 
 
 ## II. Lecture Notes
