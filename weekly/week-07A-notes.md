@@ -7,14 +7,14 @@
 
 ## II. Review Questions <a id="review-questions"></a>
 
-**ES5 Object Literals**
+**A. ES5 Object Literals**
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 1. Describe *prototypical inheritance* & the *prototype chain*
 2. What is *property shadowing*?
 3. What property of all objects is used to implement *prototypical inheritance*
 4. What does **OLOO** stand for, and what method of `Object` is used to implement this concept?
 
-**ES6 Classes**
+**B. ES6 Classes**
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 1. Write a ES6 class named `Car`:
     - it will have `year` and `speed` properties
