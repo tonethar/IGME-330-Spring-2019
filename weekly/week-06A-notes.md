@@ -9,7 +9,7 @@
 
 **ES5 Revealing Module Pattern**
 1. How do we export a "public interface" from a module? 
-2. In the third version of the *Revealing Module Pattern*, how did we represent the module dependencies in **sprites.js** and **main.js** and 
+2. In the second version of the *Revealing Module Pattern*, module dependencies were tied to the `app` global variable. In the third version of the *Revealing Module Pattern*, how did we represent the module dependencies in **sprites.js** and **main.js**?
 3. Explain the concept of *Dependency Injection* 
 
 <hr><hr>
