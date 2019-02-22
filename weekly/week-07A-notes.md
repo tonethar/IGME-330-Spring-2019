@@ -24,7 +24,7 @@
 3. True or False. The JavaScript class syntax **does not** introduce a new object-oriented inheritance model to JavaScript.
 
 **C. JavaScript runtime**
-- 
+- https://mathiasbynens.be/notes/shapes-ics
 1. What is the purpose of a JS engine *shape*?
 <hr><hr>
 
