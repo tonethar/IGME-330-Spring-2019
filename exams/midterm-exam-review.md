@@ -94,5 +94,6 @@
 - ES6 arrow functions
 - looping through arrays
 - passing data from HTML elements to JavaScript: [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
+- ES5 revealing Module Pattern
 - Protypical Inheritance
 - ES6 Classes
