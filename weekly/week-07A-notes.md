@@ -1,12 +1,15 @@
 # Week 7A - Look at Project 1 Submissions
 
 ## I. Overview & Agenda
-- ***The midterm exam is next week - Thursday 3/7/19!*** Here are some study resources:
-  - [sample-midterm-exam.md](../exams/sample-midterm-exam.md)
+- ***The midterm exam is next week - Thursday 3/7/19!*** Here are some study resources, including a sample exam:
+  - [midterm-exam-review.md](../exams/midterm-exam-review.md)
 - Look at Project 1 Submissions
 - Begin Computational Text Unit
 
-## II. Required Reading & Assignments
+## II. Review Questions <a id="review-questions"></a>
+
+**ES5 Object Literals**
+1. How do we export a "public interface" from a module? 
 
 
 
