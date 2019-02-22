@@ -8,7 +8,7 @@
 **What is tested:**
 - Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game - from [week 1A](../weekly/week-01A-notes.md) to [week 7B](../weekly/week-07B-notes.md)
 
-**What else?:**
+**What else:**
 - No make up's allowed without prior permission.
 
 **And:**
@@ -27,7 +27,7 @@
 - **Note:** Some of these JavaScript concepts are covered in these IGME-230 notes:
   - IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
   - An intro to ES6 classes is here: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-2.md
-- All of our **weekly notes** beginning with [week-01A-notes.md](../weekly/week-01A-notes.md) and ending with [week-07-notes.md](../weekly/week-07-notes.md)
+- All of our **weekly notes** beginning with [week-01A-notes.md](../weekly/week-01A-notes.md) and ending with [week-07B-notes.md](../weekly/week-07B-notes.md)
 - All of our **in-class demos** - which are linked from the weekly notes above
 - All of our **HW assignments** - which are linked from the weekly notes above
 
@@ -94,3 +94,5 @@
 - ES6 arrow functions
 - looping through arrays
 - passing data from HTML elements to JavaScript: [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
+- Protypical Inheritance
+- ES6 Classes
