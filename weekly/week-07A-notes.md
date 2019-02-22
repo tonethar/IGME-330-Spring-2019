@@ -21,7 +21,7 @@
     - it will have a `.speedUp()` method that increases the car speed by 1
     - it will have a constructor that takes `year` and `speed` parameters
 2. JavaScript classes, introduced in ECMAScript 2015, are primarily ___________ over JavaScript's existing prototype-based inheritance. 
-3. True or False. The JavaScript class syntax **does not** introduce a new object-oriented inheritance model to JavaScript.
+3. True or False. The JavaScript class syntax introduces a new object-oriented inheritance model to JavaScript.
 
 **C. JavaScript runtime**
 - https://mathiasbynens.be/notes/shapes-ics
