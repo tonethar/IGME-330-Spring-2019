@@ -11,17 +11,22 @@
 **What else?:**
 - No make up's allowed without prior permission.
 
+**And:**
+- a "cheat sheet" is allowed: 
+  - 3x5 index card. You may write on the front and back.
+  - Put your name on it as we are collecting it at the beginning of the exam.
+
 ## II. Test Format
 - True/False
 - Multiple Choice
 - Short Answer
 - "Write some code"
+- *See the sample exam linked below*
 
 ## III. Study Resources
 - **Note:** Some of these JavaScript concepts are covered in these IGME-230 notes:
   - IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
   - An intro to ES6 classes is here: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-2.md
-- Links to all of the **lecture videos** have been posted to mycourses
 - All of our **weekly notes** beginning with [week-01A-notes.md](../weekly/week-01A-notes.md) and ending with [week-07-notes.md](../weekly/week-07-notes.md)
 - All of our **in-class demos** - which are linked from the weekly notes above
 - All of our **HW assignments** - which are linked from the weekly notes above
@@ -32,6 +37,7 @@
 - [week-02A-notes.md#review-questions](../weekly/week-02A-notes.md#review-questions)
 - [week-05A-notes.md#review-questions](../weekly/week-05A-notes.md#review-questions)
 - [week-06A-notes.md#review-questions](../weekly/week-06A-notes.md#review-questions)
+- [week-07A-notes.md#review-questions](../weekly/week-07A-notes.md#review-questions)
 
 ## V. Topics
 
