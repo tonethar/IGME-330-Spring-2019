@@ -7,7 +7,7 @@
   - [1 - Loading Plain Text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-1.md)
   - [HW - Palindrome Detector](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md)
 
-## II. Review Questions <a id="review-questions"></a>
+## II. Review Questions <a id="review-questions"></a> from last time
 
 **A. ES5 Object Literals**
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
