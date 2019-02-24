@@ -2,10 +2,15 @@
 
 ## I. Overview & Agenda
 
+- [Text-1 Loading Plain Text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-1.md) (finish up)
+- [Text-2 Constrained Writing](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-2.md)
+- [Text-3 Simple Text Analysis](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-3.md)
 
 
-## II. Required Reading & Assignments
 
+## II. HW Assignment
+
+- [HW - Word Cloud](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md)
 
 <hr><hr>
 
