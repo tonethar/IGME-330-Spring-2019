@@ -1,5 +1,8 @@
 # Week 12A - Intro to Vue.js
 
+- Up until now, we've been using pretty just the standard [VanillaJS](http://vanilla-js.com/) library!
+- Now it's time for data-binding via the Vue.js MVVM framework!
+
 ## I. Topics
 - [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 
