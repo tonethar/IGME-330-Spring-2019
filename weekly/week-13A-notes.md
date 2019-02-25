@@ -12,8 +12,17 @@
   - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
   - [4 - Firebase "Draw & Share" App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md)
   
-**Note:** There is not a mycourses dropbox for the Firebase exercises above, but if you do not follow along and understand what we are doing in these three Firebase chapters, you will have a difficult time meeting the cloud storage requirement of Project 2. 
+**Note:** If you do not follow along and understand what we are doing in these four Firebase chapters, you will have a difficult time meeting the cloud storage requirement of Project 2. 
 
+## II. Video Links
+
+- [Firebase - Part I - Intro - (15:00)](https://video.rit.edu/Watch/Gb6n8C5D)
+- [Firebase - Part II - High Score App - (11:08)](https://video.rit.edu/Watch/f9LFg38Q)
+- [Firebase - Part III - High Score Viewer - (14:36)](https://video.rit.edu/Watch/Ce6i3E2P)
+- [Firebase - Part IV - Draw & Share A - (15:42)](https://video.rit.edu/Watch/Gw84EzLn)
+- [Firebase - Part IV - Draw & Share B - (10:42)](https://video.rit.edu/Watch/g6F4Mko3)
+- [Firebase - Part IV - Draw & Share C - (17:05)](https://video.rit.edu/Watch/d7N9Biy4)
+- [Firebase - Part IV - Draw & Share D - (18:19)](https://video.rit.edu/Watch/m7LWb8z3)
 
 
 <hr><hr>
