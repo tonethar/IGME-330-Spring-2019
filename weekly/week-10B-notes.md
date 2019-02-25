@@ -1,7 +1,7 @@
 # Week 10B
 
 ## I. Topics
-- today we will work on project 2!
+
 
 
 <hr><hr>
