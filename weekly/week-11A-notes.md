@@ -23,10 +23,9 @@ We are moving into the third part of the course, where we will build data-driven
 ## III. Important Deadlines
 
 - *When will the final exam be given?*
-  - For the online section (01), it is for the first hour of the regularly scheduled final exam time for the course (see SIS for date and time)
-  - For sections 02 & 03, the final exam is on the last day of class, Thursday December 6th
+  - the final exam is on the last day of class, Thursday April 25th
 - *When is the final project due?*
-  - For all sections (01,02,03) - it is due during the regularly scheduled final exam time for the course (see SIS for date/time and location)
+  - during the regularly scheduled final exam time for the course (see SIS for date/time and location)
   
 ## IV. Other Resources
 - https://github.com/toddmotto/public-apis
