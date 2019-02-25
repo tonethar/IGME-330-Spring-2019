@@ -22,7 +22,7 @@
       - `const` scoping is the same as `let`
   - Objects: literals, methods, classes
   
-## II. New Stuff needed for Project 2
+II. Intro to RiTa.js
 
 <hr><hr>
 
