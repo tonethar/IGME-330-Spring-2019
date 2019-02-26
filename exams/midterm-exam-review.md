@@ -14,7 +14,7 @@
 **And:**
 - a "cheat sheet" is allowed: 
   - 3x5 index card. You may write on the front and back.
-  - Put your name on it as we are collecting it at the beginning of the exam.
+  - Put your name on it as we are collecting it at the end of the exam.
 
 ## II. Test Format
 - True/False
