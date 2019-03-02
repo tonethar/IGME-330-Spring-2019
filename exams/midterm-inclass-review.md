@@ -1,11 +1,17 @@
 # Variables and scope and functions and objects *Review*
 
 I. Declaring variables with `var`
+
 II. Declaring variables with `let` & `const`
+
 III. Immutabilty
+
 IV. Writing JavaScript Functions
+
 V. Object Literals
+
 VI. Classes
+
 
 ## I. Declaring variables with `var`
 
