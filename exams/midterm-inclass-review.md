@@ -48,7 +48,7 @@ E) script
 		console.log(myNum);
 	}
 </script>
-```js
+```
 
 
 A) block
@@ -88,7 +88,7 @@ D) property
 E) script
 
 
-```js
+
 
 4. What is the scope of variable myNum below?
 
@@ -189,9 +189,10 @@ console.log(x.name);
 
 <hr>
 
-```js
+
 2. What will be logged when this code runs?
 
+```js
 const y = 1;
 y++;
 console.log(y);
