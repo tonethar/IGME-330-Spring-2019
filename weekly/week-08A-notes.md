@@ -2,6 +2,7 @@
 
 ## I. Overview
 - The midterm exam is next time - any questions?
+- We pointed you at these study resources last week, here they are again --> [midterm-exam-review.md](../exams/midterm-exam-review.md)
 
 
 
