@@ -1,33 +1,34 @@
 # Variables and scope and functions and objects *Review*
 
-I. Declaring variables with `var`
+I. Declaring variables with `var`, `let` & `const`
 
-II. Declaring variables with `let` & `const`
+II. Immutabilty
 
-III. Immutabilty
+III. Writing JavaScript Functions
 
-IV. Writing JavaScript Functions
+IV. Object Literals
 
-V. Object Literals
-
-VI. Classes
+V. Classes
 
 
 ## I. Variable Scope
 
-### Declaring variables with `var`
+### I-A. Declaring variables with `var`
 
 - "The scope of a variable declared with `var` is its current execution context, which is either the enclosing function or, for variables declared outside any function, global. If you re-declare a JavaScript variable, it will not lose its value." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
-- PS: When a function is declared, it also 
+- PS: When a function is declared, it follows the same scope rules
+- "Because variable declarations (and declarations in general) are processed before any code is executed, declaring a variable *anywhere* in the code is equivalent to declaring it at the top. This also means that a variable can appear to be used before it's declared. This behavior is called "hoisting", as it appears that the variable declaration is moved to the top of the function or global code."
 
-### Declaring variables with `let` & `const`
+### I-B. Declaring variables with `let` & `const`
 
 - "`let` allows you to declare variables that are limited in scope to the block, statement, or expression on which it is used. This is unlike the var keyword, which defines a variable globally, or locally to an entire function regardless of block scope." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 - P.S. `const` has the same rules of scope as `let`
 - P.P.S. If `let` is used to declare a variable *outside* of a function, method, or class, it ends up in what is called *script scope*, which is a "global-like" scope where it will be visible in other JavaScript files
+- "Redeclaring the same variable (with `let`) within the same function or block scope raises a SyntaxError"
+- `let` bindings are created at the top of the (block) scope containing the declaration, commonly referred to as "hoisting". Unlike variables declared with var, which will start with the value undefined, let variables are not initialized until their definition is evaluated. Accessing the variable before the initialization results in a `ReferenceError`. The variable is in a "temporal dead zone" from the start of the block until the initialization is processed.
 
 
-### Questions on Variable Scope
+### I-C. Questions on Variable Scope
 
 1. What is the scope of the variable `myNum` below?
 
@@ -220,3 +221,10 @@ console.log(y);
 	C) undefined
 
 	D) This code will produce an error before the console.log() executes
+
+
+## III. Writing JavaScript Functions
+
+## IV. Object Literals
+
+## V. Classes
