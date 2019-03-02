@@ -1,4 +1,11 @@
-# Variables and Scope Review
+# Variables and scope and functions and objects *Review*
+
+I. Declaring variables with `var`
+II. Declaring variables with `let` & `const`
+III. Immutabilty
+IV. Writing JavaScript Functions
+V. Object Literals
+VI. Classes
 
 ## I. Declaring variables with `var`
 
@@ -8,6 +15,7 @@
 
 1. What is the scope of the variable myNum below?
 
+```js
 <script>
 	function init(){
 		if(true){
@@ -16,7 +24,7 @@
 		}
 	}
 </script>
-
+```
 
 A) block
 
@@ -28,10 +36,11 @@ D) property
 
 E) script
 
-
+<hr>
 
 2. What is the scope of variable myNum below?
 
+```js
 <script>
 	var myNum = 0;
 
@@ -39,7 +48,7 @@ E) script
 		console.log(myNum);
 	}
 </script>
-
+```js
 
 
 A) block
@@ -53,10 +62,11 @@ D) property
 E) script
 
 
-
+<hr>
 
 3. What is the scope of variable myNum below?
 
+```js
 <script>
 	let myNum = 0;
 
@@ -64,7 +74,7 @@ E) script
 		console.log(myNum);
 	}
 </script>
-
+```
 
 
 A) block
@@ -78,10 +88,11 @@ D) property
 E) script
 
 
-
+```js
 
 4. What is the scope of variable myNum below?
 
+```js
 <script>
 	const myNum = 0;
 
@@ -89,7 +100,7 @@ E) script
 		console.log(myNum);
 	}
 </script>
-
+```
 
 A) block
 
@@ -102,11 +113,12 @@ D) property
 E) script
 
 
-
+<hr>
 
 
 5. What is the scope of variable myNum below?
 
+```js
 <script>
 	function init(){
 		if(true){
@@ -116,7 +128,7 @@ E) script
 		}
 	}
 </script>
-
+```
 
 A) block
 
@@ -129,17 +141,18 @@ D) property
 E) script
 
 
-
+<hr>
 
 
 6. What is the scope of the init function below?
 
+```js
 <script>
 	function init(){
 		console.log("Hi there!");
 	}
 </script>
-
+```
 
 A) block
 
@@ -160,10 +173,11 @@ E) script
 
 1. What will be logged when this code runs?
 
+```js
 const x = {};
 x.name = "fred";
 console.log(x.name);
-
+```
 
 	A) A blank line
 
@@ -173,12 +187,15 @@ console.log(x.name);
 
 	D) This code will produce an error before the console.log() executes
 
+<hr>
 
+```js
 2. What will be logged when this code runs?
 
 const y = 1;
 y++;
 console.log(y);
+```
 
 	A) 1
 
