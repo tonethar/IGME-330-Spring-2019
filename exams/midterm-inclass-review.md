@@ -265,6 +265,12 @@ C) undefined
 </script>
 ```
 
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
 <hr>
 
 11. What will be logged out below?
