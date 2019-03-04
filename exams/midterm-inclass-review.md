@@ -181,6 +181,85 @@ D) property
 
 E) script
 
+<hr>
+
+7. What is the scope of the `pi` function below?
+
+```js
+<script>
+	function init(){
+		console.log("pi is approximately " + pi());
+		
+		function pi(){
+			return 3.1415;
+		}
+	}
+</script>
+```
+
+A) block
+
+B) function/local
+
+C) global
+
+D) property
+
+E) script
+
+<hr>
+
+8. What will be logged out below?
+
+```js
+<script>
+	var x;
+	console.log(x);
+	x = 10;
+</script>
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
+<hr>
+
+9. What will be logged out below?
+
+```js
+<script>
+	console.log(x);
+	var x;
+	x = 10;
+</script>
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
+<hr>
+
+10. What will be logged out below?
+
+```js
+<script>
+	console.log(x);
+	let x;
+	x = 10;
+</script>
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
 
 <hr>
 
