@@ -529,11 +529,13 @@ D) undefined
 3)
 
 **III. Writing JavaScript Functions**
+
 1)
 2)
 3)
 
 **IV. Object Literals**
+
 1)
 2)
 3)
