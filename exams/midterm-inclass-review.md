@@ -502,7 +502,7 @@ D) undefined
 
 ## VII. Answer Sheet
 
-- Here it is --> [midterm-questions-inclass.txt](./midterm-questions-inclass.txt)
+- Here it is --> [midterm-inclass-review-answer-sheet.txt](./midterm-inclass-review-answer-sheet.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
 
 <hr><hr>
