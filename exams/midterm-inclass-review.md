@@ -470,7 +470,7 @@ console.log(car.oldColor);
 
 A) This will produce a runtime error
 
-B) "re"
+B) "red"
 
 C) "green"
 
@@ -479,3 +479,11 @@ D) undefined
 <hr><hr>
 
 ## V. Classes
+
+1. Create an ES6 class named `Person`
+
+- give it a constructor that takes `age` and `name` as values
+- initialize those values as  `age` and `name` properties
+- implement a `reincarnate()` method that sets the `age` property to `0`
+
+2. Create a new instance of `Person` called `p1`, with an `age` of 18, and `name` of `Ace Coder`
