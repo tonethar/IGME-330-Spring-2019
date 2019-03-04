@@ -498,11 +498,14 @@ D) undefined
 
 - Be sure you practice the question at the end of [sample-midterm-exam.md](./sample-midterm-exam.md)
 
+<hr><hr>
 
 ## VII. Answer Sheet
 
 - Copy the text below into a text file
 - Test yourself!  Answer the questions without using ypur neighbor or the Internet
+
+<hr><hr>
 
 **I. Variable Scope**
 
