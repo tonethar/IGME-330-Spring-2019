@@ -255,6 +255,22 @@ C) undefined
 </script>
 ```
 
+<hr>
+
+11. What will be logged out below?
+
+```js
+<script>
+	if (true){
+		var x = 10;
+	}
+	if(true){
+		console.log(x);
+	}
+	
+</script>
+```
+
 A) This will produce a runtime error
 
 B) 10
@@ -263,8 +279,32 @@ C) undefined
 
 <hr>
 
+12. What will be logged out below?
+
+```js
+<script>
+	if (true){
+		let x = 10;
+	}
+	if(true){
+		console.log(x);
+	}
+	
+</script>
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
+<hr><hr>
+
 
 ## II. Immutability
+
+- "The `const` declaration creates a read-only reference to a value. It does not mean the value it holds is immutable, just that the variable identifier cannot be reassigned. For instance, in the case where the content is an object, this means the object's contents (e.g., its properties) can be altered." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 
 1. What will be logged when this code runs?
 
@@ -274,18 +314,35 @@ x.name = "fred";
 console.log(x.name);
 ```
 
-	A) A blank line
+A) This will produce a runtime error
 
-	B) “fred”
+B) "fred"
 
-	C) undefined
+C) undefined
 
-	D) This code will produce an error before the console.log() executes
+<hr>
+
+2. What will be logged when this code runs?
+
+```js
+const x = {};
+x = {"name":"mary"};
+x.name = "fred";
+console.log(x.name);
+```
+
+A) This will produce a runtime error
+
+B) "fred"
+
+C) "mary"
+
+D) undefined
 
 <hr>
 
 
-2. What will be logged when this code runs?
+3. What will be logged when this code runs?
 
 ```js
 const y = 1;
@@ -293,17 +350,24 @@ y++;
 console.log(y);
 ```
 
-	A) 1
+A) This will produce a runtime error
 
-	B) 2
+B) 1
 
-	C) undefined
+C) 2
 
-	D) This code will produce an error before the console.log() executes
+D) undefined
 
+
+<hr><hr>
 
 ## III. Writing JavaScript Functions
 
+
+<hr><hr>
+
 ## IV. Object Literals
+
+<hr><hr>
 
 ## V. Classes
