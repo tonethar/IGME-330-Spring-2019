@@ -449,6 +449,30 @@ C) undefined
 
 <hr>
 
+5. What will be logged when this code runs?
+
+```js
+class Car{
+	constructor(color){
+		this.car = color;
+	}
+	
+	repaint(newColor){
+		let oldColor = this.color;
+		this.color = newColor; 
+	}
+}
+
+let car = new Car("red");
+car.repaint("green");
+console.log(car.oldColor);
+```
+
+A) This will produce a runtime error
+
+B) "green"
+
+C) undefined
 
 <hr><hr>
 
