@@ -32,6 +32,7 @@
 - All of our **HW assignments** - which are linked from the weekly notes above
 
 ## IV. Sample Questions
+- [midterm-inclass-review.md](./midterm-inclass-review.md)
 - [sample-midterm-exam.md](./sample-midterm-exam.md)
 - [week-01A-notes.md#review-questions](../weekly/week-01A-notes.md#review-questions)
 - [week-02A-notes.md#review-questions](../weekly/week-02A-notes.md#review-questions)
