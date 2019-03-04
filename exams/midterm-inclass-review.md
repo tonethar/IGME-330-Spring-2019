@@ -1,5 +1,8 @@
 # Variables and scope and functions and objects *Review*
 
+- For the review questions below, assume that all of the code is running in strict mode
+- Be sure to study for the exam by reviewing the resources that we suggested  
+
 I. Declaring variables with `var`, `let` & `const`
 
 II. Immutabilty
