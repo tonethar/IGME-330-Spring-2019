@@ -502,7 +502,7 @@ D) undefined
 
 ## VI. Interview-Style Question
 
-- Be sure you practice the question at the end of [sample-midterm-exam.md](./sample-midterm-exam.md)
+- Be sure you practice the interview question at the end of [sample-midterm-exam.md](./sample-midterm-exam.md)
 
 <hr><hr>
 
