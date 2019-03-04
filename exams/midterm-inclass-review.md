@@ -1,7 +1,9 @@
 # Variables and scope and functions and objects *Review*
 
 - For the review questions below, assume that all of the code is running in strict mode
-- Be sure to study for the exam by reviewing the resources that we suggested  
+- Be sure to study for the exam by reviewing the resources that we suggested --> [midterm-exam-review.md](./midterm-exam-review.md)
+
+<hr>
 
 I. Declaring variables with `var`, `let` & `const`
 
@@ -13,6 +15,7 @@ IV. Object Literals
 
 V. Classes
 
+<hr><hr>
 
 ## I. Variable Scope
 
@@ -313,13 +316,13 @@ C) undefined
 
 ```js
 const x = {};
-x.name = "fred";
-console.log(x.name);
+x.species = "Orc";
+console.log(x.species);
 ```
 
 A) This will produce a runtime error
 
-B) "fred"
+B) "Orc"
 
 C) undefined
 
@@ -329,16 +332,16 @@ C) undefined
 
 ```js
 const x = {};
-x = {"name":"mary"};
-x.name = "fred";
-console.log(x.name);
+x = {"species":"Orc"};
+x.species = "Goblin";
+console.log(x.species);
 ```
 
 A) This will produce a runtime error
 
-B) "fred"
+B) "Orc"
 
-C) "mary"
+C) "Goblin"
 
 D) undefined
 
@@ -366,10 +369,86 @@ D) undefined
 
 ## III. Writing JavaScript Functions
 
+1) Declare a JavaScript function named `doubleIt` that accepts a number as an argument. This function will double the number and return the result.
+
+
+2) Now re-write the `doubleIt` function as an ES6 arrow function.
+
 
 <hr><hr>
 
 ## IV. Object Literals
+
+1. What will be logged when this code runs?
+
+```js
+let car = {color: "red"};
+car.cylinders = 10;
+console.log(car.cylinders);
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
+<hr>
+
+2. What will be logged when this code runs?
+
+```js
+let car = {color: "red"};
+car["cylinders"] = 10;
+console.log(car.cylinders);
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
+<hr>
+
+
+3. What will be logged when this code runs?
+
+```js
+let car = {color: "red"};
+console.log(car.cylinders);
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
+<hr>
+
+4. What will be logged when this code runs?
+
+```js
+class Car{
+	constructor(color){
+		this.car = color;
+	}
+}
+
+let car = new Car("red");
+car.cylinders = 10;
+console.log(car.cylinders);
+```
+
+A) This will produce a runtime error
+
+B) 10
+
+C) undefined
+
+<hr>
+
 
 <hr><hr>
 
