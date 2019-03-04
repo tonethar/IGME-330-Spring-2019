@@ -15,6 +15,8 @@ IV. Object Literals
 
 V. Classes
 
+VI. Interview-Style Question
+
 <hr><hr>
 
 ## I. Variable Scope
@@ -487,3 +489,9 @@ D) undefined
 - implement a `reincarnate()` method that sets the `age` property to `0`
 
 2. Create a new instance of `Person` called `p1`, with an `age` of 18, and `name` of `Ace Coder`
+
+<hr><hr>
+
+## VI. Interview-Style Question
+
+- Be sure you practice the question at the end of [sample-midterm-exam.md](./sample-midterm-exam.md)
