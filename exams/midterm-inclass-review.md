@@ -502,48 +502,10 @@ D) undefined
 
 ## VII. Answer Sheet
 
-- Copy the text below into a text file
+- Here it is --> [midterm-questions-inclass.txt](./midterm-questions-inclass.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
 
 <hr><hr>
 
-**I. Variable Scope**
 
-1) &lt;your answer here>
-2) &lt;your answer here>
-3)
-4)
-5)
-6)
-7)
-8)
-9)
-10)
-11)
-12)
-
-**II. Immutability**
-
-1) &lt;your answer here>
-2)
-3)
-
-**III. Writing JavaScript Functions**
-
-1) &lt;your answer here>
-2)
-3)
-
-**IV. Object Literals**
-
-1)
-2)
-3)
-4)
-5)
-
-**V. Classes**
-
-1)
-2)
 
