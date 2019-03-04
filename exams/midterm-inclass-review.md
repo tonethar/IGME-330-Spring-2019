@@ -17,6 +17,8 @@ V. Classes
 
 VI. Interview-Style Question
 
+VII. Answer Sheet
+
 <hr><hr>
 
 ## I. Variable Scope
@@ -495,3 +497,48 @@ D) undefined
 ## VI. Interview-Style Question
 
 - Be sure you practice the question at the end of [sample-midterm-exam.md](./sample-midterm-exam.md)
+
+
+## VII. Answer Sheet
+
+- Copy the text below into a text file
+- Test yourself!  Answer the questions without using ypur neighbor or the Internet
+
+**I. Variable Scope**
+
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+
+**II. Immutability**
+
+1)
+2)
+3)
+
+**III. Writing JavaScript Functions**
+1)
+2)
+3)
+
+**IV. Object Literals**
+1)
+2)
+3)
+4)
+5)
+
+**V. Classes**
+
+1)
+2)
+
