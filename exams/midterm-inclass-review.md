@@ -470,9 +470,11 @@ console.log(car.oldColor);
 
 A) This will produce a runtime error
 
-B) "green"
+B) "re"
 
-C) undefined
+C) "green"
+
+D) undefined
 
 <hr><hr>
 
