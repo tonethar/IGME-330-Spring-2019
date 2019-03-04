@@ -503,14 +503,14 @@ D) undefined
 ## VII. Answer Sheet
 
 - Copy the text below into a text file
-- Test yourself!  Answer the questions without using ypur neighbor or the Internet
+- Test yourself!  Answer the questions without using your neighbor or the Internet
 
 <hr><hr>
 
 **I. Variable Scope**
 
-1)
-2)
+1) &lt;your answer here>
+2) &lt;your answer here>
 3)
 4)
 5)
@@ -524,13 +524,13 @@ D) undefined
 
 **II. Immutability**
 
-1)
+1) &lt;your answer here>
 2)
 3)
 
 **III. Writing JavaScript Functions**
 
-1)
+1) &lt;your answer here>
 2)
 3)
 
