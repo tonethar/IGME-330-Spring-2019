@@ -40,7 +40,7 @@
 - [week-06A-notes.md#review-questions](../weekly/week-06A-notes.md#review-questions)
 - [week-07A-notes.md#review-questions](../weekly/week-07A-notes.md#review-questions)
 
-## V. Topics
+## V. Major Topics (but everything is fair game)
 
 ### A. Canvas 
 - Obtaining a drawing context obejct
