@@ -1,4 +1,4 @@
-# Week 9B: RiTa
+# Week 9B: RiTa & Context-free Grammars
 
 # I. Overview
 
