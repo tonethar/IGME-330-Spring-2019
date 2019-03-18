@@ -55,7 +55,7 @@
   
 ## <a id="week9">Week 9 :  Computational Text Libraries
   - [Week 9A - RiTa](weekly/week-09A-notes.md)
-  - [Week 9B - Wrap up](weekly/week-09B-notes.md) 
+  - [Week 9B - RiTa & Context-free Grammars](weekly/week-09B-notes.md) 
   
 ## <a id="week10">Week 10 : Catch up & Complete Text Unit
    - [Week 10A - ES6 Objects Review](weekly/week-10A-notes.md)
