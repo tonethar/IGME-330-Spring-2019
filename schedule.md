@@ -13,7 +13,7 @@
 - [Week 08 (Mar 04) : Catchup & Midterm Exam](#week8)
 - ***Spring Break  3/10-3/17***
 - [Week 09 (Mar 18) : Computational Text Libraries](#week9)
-- [Week 10 (Mar 25) : Catch up & Complete Text Unit](#week10)
+- [Week 10 (Mar 25) : Catch up](#week10)
 - [Week 11 (Apr 01) : Web Services](#week11)
 - [Week 12 (Apr 08) : Vue.js & MVVM](#week12)
 - [Week 13 (Apr 15) : Cloud Data & JavaScript Topics](#week13)
@@ -57,7 +57,7 @@
   - [Week 9A - RiTa](weekly/week-09A-notes.md)
   - [Week 9B - RiTa & Context-free Grammars](weekly/week-09B-notes.md) 
   
-## <a id="week10">Week 10 : Catch up & Complete Text Unit
+## <a id="week10">Week 10 : Catch up
    - [Week 10A - ES6 Objects Review](weekly/week-10A-notes.md)
   
 ## <a id="week11">Week 11  : Web Services
