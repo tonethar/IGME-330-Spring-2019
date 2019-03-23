@@ -21,7 +21,7 @@
   - *data binding* - learning how to utilize "reactive" frameworks like Vue.js
 
 ## III. Today's Topics
-- ***Note about today's lecture***:
+- ***But first, a public service announcement about today's lecture***:
   - If you took IGME-230 *Web Site Design & Implementation* prior to 2171, you have not seen this material before
   - If you took IGME-230 in 2171 or 2175, this was *optional* material that you may have seen if you decided to do a Web Service App for Project 2
   - If you took IGME-230 in 2181, this was required material, therefore much of today's lecture will be review
