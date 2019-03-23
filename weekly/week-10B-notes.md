@@ -1,11 +1,16 @@
-# Week 10B - NodeJS
+# Week 10B - ES6 Classes & Modules
 
-## I. Topics
+## I. Using ES6 Classes in a Web App
+
+## II. ES6 Modules 
+
+<!--
+## III. NodeJS
 - How to set up NodeJS
 - Consuming Web Services from a command-line Node.js app. See mycourses dropbox for the due dates:
   - [Node.js and Web Services - 1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
   - [Node.js and Web Services - 2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-2.md)
-
+-->
 
 
 <hr><hr>
