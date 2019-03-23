@@ -1,43 +1,19 @@
 # Week 10A
 
-## I. Review Questions (in ES6 & strict mode) <a id="review"></a>
 
-### A - ES6 Classes
-1. Write a ES6 class named `Car`:
-    - it will have `year` and `speed` properties
-    - it will have a `.speedUp()` method that increases the car speed by 1
-    - it will have a constructor that takes `year` and `speed` parameters
+## I. Web Services and the Giphy API HW
+
+Let's review:
+  - [IGME-230 - Web Apps Chapter 10 - Web Services](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md)
+  - [Homework: GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md)
   
-2. Is adding properties and methods to an object created with an ES6 class *legal*?
+  
+## II. Adding ES6 Classes to our *Giphy Finder*
 
-```js
-let car1 = new Car('2019',0);
-car1.stop = function(){
-  this.speed = 0;
-}
-car1.stop();
-```
 
-3. Is this legal in JavaScript?
 
-```js
-const car1 = new Car('2019',0); // constant 
-car1 = new Car('2019',0); // this car instance has same values as first car
-```
 
-4. Which of the following are legal in JavaScript?
-
-```js
-var car1 = new Car('2019',0);
-var car1 = new Car('2019',0);
-
-let car2 = new Car('2019',0);
-let car2 = new Car('2019',0);
-
-const car3 = new Car('2019',0);
-const car3 = new Car('2019',0);
-```
-
+## III. HW - *Giphy Finder - Part Deux*
 
 
 
