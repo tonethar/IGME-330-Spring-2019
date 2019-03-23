@@ -16,9 +16,6 @@ We are moving into the third part of the course, where we will build data-driven
   - Demos - we'll use these 2 services:
     - https://dog.ceo/dog-api/documentation/
     - http://www.amiiboapi.com
-- Consuming Web Services from a command-line Node.js app. See mycourses dropbox for the due dates:
-  - [Node.js and Web Services - 1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
-  - [Node.js and Web Services - 2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-2.md)
 
 ## III. Other Resources
 - https://github.com/toddmotto/public-apis
