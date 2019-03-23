@@ -26,13 +26,15 @@
   - If you took IGME-230 in 2181, this was required material, therefore much of today's lecture will be review
 - Consuming Web Services in a browser:
   - [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes
-  - [HW - GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you should have completed this already:
-    - We are going to review the concepts together - if you have any questions about it - ask!
-    - If your version was not perfect, fix it!
   - [Web Service App - Examples & Starters (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md) - this is starter code that demos how to use several web services
   - Demos - we'll use these 2 services:
     - https://dog.ceo/dog-api/documentation/
     - http://www.amiiboapi.com
+  - [HW - GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you should have completed this already:
+    - We are going to review the concepts together - if you have any questions about it - ask!
+    - If your version was not perfect, fix it!
+    - And if you didn't complete this HW assignment, do so ASAP!
+
 
 ## IV. Other Resources
 - https://github.com/toddmotto/public-apis
