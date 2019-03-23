@@ -59,9 +59,10 @@
   
 ## <a id="week10">Week 10 : Web Services
    - [Week 10A - Introduction to Web Services](weekly/week-10A-notes.md)
+   - [Week 10B - ES6 Classes & Modules](weekly/week-10B-notes.md)
   
 ## <a id="week11">Week 11  : More Web Services
-   - [Week 11A - Intro to Web Services](weekly/week-11A-notes.md)
+   - [Week 11A - Node.js](weekly/week-11A-notes.md)
    - [Week 11B - More About Web Services](weekly/week-11B-notes.md)
   
 ## <a id="week12">Week 12  : Vue.js & MVVM
