@@ -1,6 +1,6 @@
 # Week 10A - Intro to Web Services
 
-## I. Wrap-up of last week
+## I. Wrap-up of "unit 2"
 - We just completed 3-1/2 lectures about working with [**Unstructured Text**](https://en.wikipedia.org/wiki/Unstructured_data) - by both analyzing it and by creating **Generative Text** experiments. Here is a summary of the concepts, topics and exercises:
   - loading text via &lt;input>, &lt;textarea>, &lt;file>, drag-and-drop, and also via the `XMLHttpRequest` object (XHR)
   - manipulating text using `String` and `Array` methods, as well as regular expressions
