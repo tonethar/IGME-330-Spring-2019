@@ -1,9 +1,9 @@
 # Week 10A - Intro to Web Services
 
 ## I. Wrap-up of last week
-- We just completed 3-1/2 lectures about working with *unstructured text* - here is a summary of the concepts, topics and exercises:
+- We just completed 3-1/2 lectures about working with *unstructured text* - by both analyzing it and by creating **Generative Text** experiments. Here is a summary of the concepts, topics and exercises:
   - loading text via &lt;input>, &lt;textarea>, &lt;file>, drag-and-drop, and also via the `XMLHttpRequest` object (XHR)
-  - using `String` and `Array` methods, as well as regular expressions to manipulate text 
+  - manipulating text using `String` and `Array` methods, as well as regular expressions
   - creating a [*Palindrome Detector*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md) - palindromes are a form of [**Constrained Writing**](https://en.wikipedia.org/wiki/Constrained_writing)
   - creating a [*Diastic Machine*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-2.md#III) demo in class, which was another example of Constained Writing
   - learning about how to count all of the words on a page, how to designate and remove words we are not interested in ([**Stop Words**](https://en.wikipedia.org/wiki/Stop_words)) utlizing array methods, and created our own [*Word Cloud*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md) app
