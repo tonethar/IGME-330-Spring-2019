@@ -32,12 +32,20 @@
     - We are going to review the concepts together - if you have any questions about it - ask!
     - If your version was not perfect, fix it!
     - And if you didn't complete this HW assignment, do so ASAP!
-  - Demos - we'll use these 2 services:
-    - https://dog.ceo/dog-api/documentation/
-      - grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to grab **dog-xhr.html** (the XHR version)
+ 
+ ## IV. Demos
+ For demos, we'll utilize 2 services:
+ 
+ ### Dog API
+ - Docs are here: https://dog.ceo/dog-api/documentation/
+ - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to grab **dog-xhr.html** (the XHR version)
+     - let's modify the code to utilize the "List all breeds" API endpoint (see Dog API docs link above) - and be sure that the sub-breeds are also displayed
+     - see screenshot below:
+
+![screenshot](./_images/)
 
 
-## IV. Other Resources
+## V. Other Resources
 - https://github.com/toddmotto/public-apis
 - https://github.com/abhishekbanthia/Public-APIs
 
