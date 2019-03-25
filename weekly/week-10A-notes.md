@@ -48,7 +48,13 @@
 
 ![screenshot](./_images/webservice-demo-1.png)
 
-### IV-B. Anime Schedule API
+### IV-B. Anime Schedule Finder API
+
+- Docs are here: https://dog.ceo/dog-api/documentation/
+ - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#anime-schedule-finder) - and be sure to copy **anime-schedule-xhr.html** (the XHR version)
+     - try out the start version - 
+
+
 
 ## V. Other Resources
 - https://github.com/toddmotto/public-apis
