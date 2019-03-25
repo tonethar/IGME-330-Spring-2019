@@ -34,7 +34,7 @@
     - And if you didn't complete this HW assignment, do so ASAP!
   - Demos - we'll use these 2 services:
     - https://dog.ceo/dog-api/documentation/
-      - grab the start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to grab the XHR version
+      - grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to grab **dog-xhr.html** (the XHR version)
 
 
 ## IV. Other Resources
