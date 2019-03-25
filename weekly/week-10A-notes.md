@@ -46,8 +46,9 @@
      - note: this endpoint also does not require any additional parameters
      - see screenshot below:
 
-![screenshot](./_images/)
+![screenshot](./_images/webservice-demo-1.png)
 
+### Anime Schedule API
 
 ## V. Other Resources
 - https://github.com/toddmotto/public-apis
