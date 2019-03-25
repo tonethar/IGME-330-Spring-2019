@@ -50,11 +50,14 @@
 
 ### IV-B. Anime Schedule Finder API
 
-- Docs are here: https://dog.ceo/dog-api/documentation/
+- Docs are here: https://jikan.docs.apiary.io/#
  - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#anime-schedule-finder) - and be sure to copy **anime-schedule-xhr.html** (the XHR version)
-     - try out the start version - 
+     - try out the start version - note that we are getting a `url` and a `title` for each result -  which allows us to create a hyperlink to the result's web page
+     - modify the code to also display the `synopsis` of the show
+     - modify the code to display the `.name` of all of the `.genres` that the show belongs to
+     - see screenshot below:
 
-
+![screenshot](./_images/webservice-demo-2.png)
 
 ## V. Other Resources
 - https://github.com/toddmotto/public-apis
