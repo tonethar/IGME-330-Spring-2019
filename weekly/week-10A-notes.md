@@ -72,9 +72,15 @@ A really nice feature is to allow the user to "page" through large numbers of re
   - Declare a script variable - `let offset = 0;`
   - Append its value to the query string  - `url += "&offset=" + offset;`
   - Increase the value of `offset` by the `limit` value every time the "Find More!" button is clicked, and then do a search
-  - Display the `offset` value somewhere on the screen
+  - Re-set the value of `offset` to `0` every time the "Find some GIFs!" button is clicked
+  - `e.target.id` is a good way to figure out which button called `searchButtonClicked`
+  - Display the `offset` value somewhere on the screen (see the screenshot)
   - "Gotchas":
     - when you pull the `limit` value from the form, it is of type `String`. Before you can perform mathematical operations with it, you will need to convert it to a `Number`
+    - you should probably set the `disabled` property of the "Find More!" to `true` when the app starts up, and then set it to `false` after the first successful search
+  - Here is a completed example:   
+    
+![screenshot](./_images/webservice-demo-4.png)
 
 ## VI. Lists of Public APIs
 - https://github.com/toddmotto/public-apis
