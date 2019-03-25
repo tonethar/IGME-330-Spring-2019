@@ -36,7 +36,7 @@
  ## IV. Demos
  For demos, we'll utilize 2 services:
  
- ### Dog API
+ ### IV-A. Dog API
  - Docs are here: https://dog.ceo/dog-api/documentation/
  - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to grab **dog-xhr.html** (the XHR version)
      - try out the start version - notice that this API endpoint is pretty simple to use because it does not require us to send any additional parameters along
@@ -48,7 +48,7 @@
 
 ![screenshot](./_images/webservice-demo-1.png)
 
-### Anime Schedule API
+### IV-B. Anime Schedule API
 
 ## V. Other Resources
 - https://github.com/toddmotto/public-apis
