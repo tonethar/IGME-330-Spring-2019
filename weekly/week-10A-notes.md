@@ -73,6 +73,8 @@ A really nice feature is to allow the user to "page" through large numbers of re
   - Append its value to the query string  - `url += "&offset=" + offset;`
   - Increase the value of `offset` by the `limit` value every time the "Find More!" button is clicked, and then do a search
   - Display the `offset` value somewhere on the screen
+  - "Gotchas":
+    - when you pull the `limit` value from the form, it is of type `String`. Before you can perform mathematical operations with it, you will need to convert it to a `Number`
 
 ## VI. Lists of Public APIs
 - https://github.com/toddmotto/public-apis
