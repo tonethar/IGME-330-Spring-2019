@@ -59,7 +59,18 @@
 
 ![screenshot](./_images/webservice-demo-2.png)
 
-## V. Other Resources
+
+## V. Homework
+A really nice feature is to allow the user to "page" through large numbers of results. Did you notice that we always get the same 25 "cat" GIFs back when we search? Let's do this!
+
+- Add a "Find More!" button to your GIF Finder HW - here are some hints:
+  - the `offset` API parameter is what controls the "start index" of the results. Because we have not supplied a value for this, it always defaults to `0` - see screenshot below:
+  
+ ![screenshot](./_images/webservice-demo-3.png)
+  
+- you need to add to your query string is 
+
+## VI. Lists of Public APIs
 - https://github.com/toddmotto/public-apis
 - https://github.com/abhishekbanthia/Public-APIs
 
