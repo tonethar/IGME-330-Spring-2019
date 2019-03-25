@@ -41,8 +41,9 @@
  - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to grab **dog-xhr.html** (the XHR version)
      - try out the start version - notice that this API endpoint is pretty simple to use because it does not require us to send any additional parameters along
      - now we will modify the code to utilize the "List all breeds" API endpoint (see Dog API docs link above)
-     - be sure that the sub-breeds are also displayed
-     - note: this endpoint also does not require and additional parameters
+     - first get just the "top-level" breeds to show
+     - then be sure that the sub-breeds are also displayed
+     - note: this endpoint also does not require any additional parameters
      - see screenshot below:
 
 ![screenshot](./_images/)
