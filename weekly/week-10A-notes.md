@@ -38,7 +38,7 @@
  
  ### IV-A. Dog API
  - Docs are here: https://dog.ceo/dog-api/documentation/
- - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to grab **dog-xhr.html** (the XHR version)
+ - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to copy **dog-xhr.html** (the XHR version)
      - try out the start version - notice that this API endpoint is pretty simple to use because it does not require us to send any additional parameters along
      - now we will modify the code to utilize the "List all breeds" API endpoint (see Dog API docs link above)
      - first get just the "top-level" breeds to show
