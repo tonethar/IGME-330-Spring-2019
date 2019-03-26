@@ -4,6 +4,9 @@
 
 ## II. ES6 Modules 
 
+- Let's discuss [ES6 Modules](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES6-modules-1.md)
+
+
 <!--
 ## III. NodeJS
 - How to set up NodeJS
