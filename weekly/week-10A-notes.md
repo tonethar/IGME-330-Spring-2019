@@ -26,7 +26,7 @@
   - If you took IGME-230 in 2171 or 2175, this was *optional* material that you may have seen if you decided to do a Web Service App for Project 2
   - If you took IGME-230 in 2181, this was required material, therefore much of today's lecture will be review
 - Consuming Web Services in a browser:
-  - [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes
+  - [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes. Here's a question for you - what's the general difference between a *library* like RiTa.js, and a *web service* (such as Giphy)?
   - [Web Service App - Examples & Starters (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md) - this is starter code that demos how to use several web services
   - [HW - GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you should have completed this already:
     - We are going to review the concepts together - if you have any questions about it - ask!
