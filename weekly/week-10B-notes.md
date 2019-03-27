@@ -34,7 +34,8 @@
     - export `searchButtonClicked`
     - move your "window.onload code" from **main.js**  to **loader.js**
   - in **loader.js**, import `searchButtonClicked` from **main.js** 
-  - in the HTML file, import **loader.js**, and be sure that it is of `type='module'`
+  - in the HTML file, load **loader.js** with a `&lt;script> tag, and be sure that it is of `type='module'`
+- Test it (on a web server) it should work as before
 
 
 <!--
