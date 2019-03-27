@@ -22,7 +22,7 @@
 ## II. ES6 Modules 
 
 - Let's discuss [ES6 Modules](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES6-modules-1.md) !
-- Welcome back! See your HW assignment below
+- Welcome back! See your HW assignment below!
 
 ## III. Homework
 
