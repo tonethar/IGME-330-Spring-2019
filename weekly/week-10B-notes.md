@@ -4,9 +4,9 @@
 
 - We are going to create a `GiphyResult` for use in our GIF Finder App
 
-[Screenshot](./_images/giphy-class-demo-1.png)
+![Screenshot](./_images/giphy-class-demo-1.png)
 
-[Screenshot](./_images/giphy-class-demo-2.png)
+![Screenshot](./_images/giphy-class-demo-2.png)
 
 ## II. ES6 Modules 
 
