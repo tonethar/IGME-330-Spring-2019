@@ -33,6 +33,7 @@
     - import the `GiphyResult` class from **classes.js**
     - export `searchButtonClicked`
     - move your "window.onload code" from **main.js**  to **loader.js**
+  - in **loader.js**, import `searchButtonClicked` from **main.js** 
 
 
 <!--
