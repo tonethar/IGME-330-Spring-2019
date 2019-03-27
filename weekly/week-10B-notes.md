@@ -27,7 +27,12 @@
 ## III. Homework
 
 - You mission is to add ES6 modules to the GIF Finder HW that you added `GiphyResult` to above:
-  - yu already have a **main.js** file, so go ahead and create **classes.js** and **loader.js** files
+  - you already have a **main.js** file, so go ahead and create **classes.js** and **loader.js** files
+  - move all the `GiphyResult` code from **main.js** to **classes.js**, and then export `GiphyResult`
+  - in **main.js**:
+    - import the `GiphyResult` class from **classes.js**
+    - export `searchButtonClicked`
+    - move your "window.onload code" from **main.js**  to **loader.js**
 
 
 <!--
