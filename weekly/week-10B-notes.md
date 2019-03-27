@@ -26,7 +26,8 @@
 
 ## III. Homework
 
-
+- You mission is to add ES6 modules to the GIF Finder HW that you added `GiphyResult` to above:
+  - yu already have a **main.js** file, so go ahead and create **classes.js** and **loader.js** files
 
 
 <!--
