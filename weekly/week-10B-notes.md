@@ -2,11 +2,20 @@
 
 ## I. Using ES6 Classes in a Web App
 
-- We are going to create a `GiphyResult` for use in our GIF Finder App
+- We are going to create a `GiphyResult` class for use in our GIF Finder HW
+- Why create classes? It's easier to split the work up between team members, as well as debug, test and maintain your code
+- Each `GiphyResult` instance will represent a single result that we get back from the Giphy web service
+- This class will encapsulate our parsing logic, and also do some data validation
+- Most of the code for this `GiphyResult` class is copied from the "result loop" in `searchButtonClicked()` and lightly modified
+- Because we have a lot to do today, we are giving you the completed code. For now, add this to the top of **main.js** (depending on how you wrote your code for the GIF Finder HW, you might need to modify this slightly):
 
 ![Screenshot](./_images/giphy-class-demo-1.png)
 
+- To use this code, make the "result loop" look like this: 
+
 ![Screenshot](./_images/giphy-class-demo-2.png)
+
+- Once you are all done, your code should work as before
 
 ## II. ES6 Modules 
 
