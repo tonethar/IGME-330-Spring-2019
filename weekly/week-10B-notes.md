@@ -7,7 +7,7 @@
 - Each `GiphyResult` instance will represent a single result that we get back from the Giphy web service
 - This class will encapsulate our parsing logic, and also do some data validation
 - Most of the code for this `GiphyResult` class is copied from the "result loop" in `searchButtonClicked()` and lightly modified
-- Because we have a lot to do today, we are giving you the completed code. For now, add this class to the top of **main.js** (depending on how you wrote your code for the GIF Finder HW, you might need to modify this slightly):
+- Because we have a lot to do today, we are giving you the completed code. For now, add this class to the top of **main.js** (depending on how you wrote your code for the GIF Finder HW, you also might need to modify this slightly):
 
 ![Screenshot](./_images/giphy-class-demo-1.png)
 
