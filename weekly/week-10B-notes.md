@@ -11,7 +11,9 @@
 
 ![Screenshot](./_images/giphy-class-demo-1.png)
 
-- To use this code, make the "result loop" look like this: 
+- your `GiphyResult` class now has 5 properties: `smallURL`,`url`,`rating`,`id` and `line`
+
+- Now to use this code, make the "result loop" look like this: 
 
 ![Screenshot](./_images/giphy-class-demo-2.png)
 
