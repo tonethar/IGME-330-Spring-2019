@@ -1,7 +1,10 @@
 # Week 11A - Intro to Node.js
 
 ## I. Overview
-- Node!
+- **Node.js** is a command-line JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, **npm**, is the largest ecosystem of open source libraries in the world.
+  - https://nodejs.org/en/
+- **npm** is the package (i.e. "library") manager for JavaScript
+  - https://www.npmjs.com
 
 ## II. Today's Topics
 
