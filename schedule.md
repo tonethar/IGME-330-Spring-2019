@@ -13,8 +13,8 @@
 - [Week 08 (Mar 04) : Catchup & Midterm Exam](#week8)
 - ***Spring Break  3/10-3/17***
 - [Week 09 (Mar 18) : Computational Text Libraries](#week9)
-- [Week 10 (Mar 25) : Web Services](#week10)
-- [Week 11 (Apr 01) : More Web Services](#week11)
+- [Week 10 (Mar 25) : Web Services + ES6 Modules](#week10)
+- [Week 11 (Apr 01) : Node.js + More Web Services](#week11)
 - [Week 12 (Apr 08) : Vue.js & MVVM](#week12)
 - [Week 13 (Apr 15) : Cloud Data & JavaScript Topics](#week13)
 - [Week 14 (Apr 22) : Review & Final Exam](#week14)
@@ -57,11 +57,11 @@
   - [Week 9A - RiTa](weekly/week-09A-notes.md)
   - [Week 9B - RiTa & Context-free Grammars](weekly/week-09B-notes.md) 
   
-## <a id="week10">Week 10 : Web Services
+## <a id="week10">Week 10 : Web Services + ES6 Modules
    - [Week 10A - Introduction to Web Services](weekly/week-10A-notes.md)
    - [Week 10B - ES6 Classes & Modules](weekly/week-10B-notes.md)
   
-## <a id="week11">Week 11  : More Web Services
+## <a id="week11">Week 11  : Node.js + More Web Services
    - [Week 11A - Node.js](weekly/week-11A-notes.md)
    - [Week 11B - More About Web Services](weekly/week-11B-notes.md)
   
