@@ -1,11 +1,12 @@
-# Week 11A - Intro to Web Services
+# Week 11A - Intro to Node.js
 
 ## I. Overview
 - Node!
 
 ## II. Today's Topics
 
-- Consuming Web Services from a command-line Node.js app. See mycourses dropbox for the due date:
+- Transpiling our ES6 code to ES5 via node and WebPack - [Transpiling ES6 to ES5](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md)
+- Consuming Web Services from a command-line Node.js app:
   - [Node.js and Web Services - 1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
   - [Node.js and Web Services - 2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-2.md)
 
