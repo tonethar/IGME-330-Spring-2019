@@ -6,6 +6,15 @@
 ## I. Topics
 - [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 
+## II. Vue Videos
+
+- [Vue.js - Part I - Intro - (10:47)](https://video.rit.edu/Watch/Rs48BbWz)
+- [Vue.js - Part II - Intro - (6:49)](https://video.rit.edu/Watch/Qt7o3LZg)
+- [Vue.js - Part III - Data Binding - (11:26)](https://video.rit.edu/Watch/y7SHt9i5)
+- [Vue.js - Part IV - v-for Directive - (11:51)](https://video.rit.edu/Watch/f3CAa58R)
+- [Vue.js - Part V - Better Button - (8:07)](https://video.rit.edu/Watch/s3F2Jqy9)
+- [Vue.js - Part VI - Bootstrap Vue - (12:20)](https://video.rit.edu/Watch/Nk2m5M3X)
+
 <a id="review"></a>
 
 ## II. Ajax & Web Service Review Questions
