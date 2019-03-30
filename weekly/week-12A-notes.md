@@ -4,7 +4,7 @@
 - Now it's time for data-binding via the Vue.js MVVM framework!
 
 ## I. Topics
-- [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
+- Demo and lecture notes are here --> [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 
 ## II. Vue Videos
 
