@@ -1,4 +1,4 @@
-# Project 2 - MVVM Web App Mashup of Awesomeness! - *DRAFT*
+# Project 2 - MVVM Web App Mashup of Awesomeness!
 
 ## I. Overview
 
@@ -179,10 +179,11 @@ For this project you (and optionally a partner) are creating a JavaScript driven
   - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
 
 ## III. Milestones
-  - Project proposal with working prototype - see myCourses for due date/time:
+  - **Deliverable A** - Project proposal with working prototype - see myCourses for due date/time:
     - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
     - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
     - one submission per team please. Make sure both team members' names are included.
+  - **Deliverable B** - An improved prototype with BOTH webs ervices working. See dropbox for due date.
   - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
