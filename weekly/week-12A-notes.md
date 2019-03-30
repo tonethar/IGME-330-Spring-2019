@@ -3,10 +3,10 @@
 - Up until now, we've been using pretty just the standard [VanillaJS](http://vanilla-js.com/) library!
 - Now it's time for data-binding via the Vue.js MVVM framework!
 
-## I. Topics
+## I. What is Vue.js?
 - Demo and lecture notes are here --> [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 
-## II. Vue Videos
+## II. Vue Videos (You will need to review these in order to complete your HW)
 
 - [Vue.js - Part I - Intro - (10:47)](https://video.rit.edu/Watch/Rs48BbWz)
 - [Vue.js - Part II - Intro - (6:49)](https://video.rit.edu/Watch/Qt7o3LZg)
