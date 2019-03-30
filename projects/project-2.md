@@ -184,7 +184,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
     - one submission per team please. Make sure both team members' names are included.
   - **Deliverable B** - An improved prototype with BOTH webs ervices working. See dropbox for due date.
-  - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
+  - **Final project deliverable** - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
   - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth
