@@ -5,9 +5,15 @@
 - [Vue Part III - Simple Vue Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
 - [Vue Part IV - Nested Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md)
 
+## II. Videos
+
+- [More Vue.js - Part I - Vue & Ajax - (26:29)])https://video.rit.edu/Watch/Ao8n6ZFf)
+- [More Vue.js - Part II - Simple Vue Components - (15:17)](https://video.rit.edu/Watch/Jo2k6XDz)
+- More Vue.js - Part III - Nested Vue Components - There's not a video! You can just read the "Vue Nested Components" notes yourself: https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md
+
 <a id="review"></a>
 
-## II. ReVue Questions (get it?)
+## III. ReVue Questions (get it?)
 1. What is ***Reactive Programming*** ?
 1. In a ***MVVM*** Vue.js app - what is role of the:
     - Model
