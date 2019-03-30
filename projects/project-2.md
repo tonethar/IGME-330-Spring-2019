@@ -33,6 +33,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
         - try to use an API that supports *CORS* (Cross-origin resource sharing)
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
+    - Somethat utilizes text - maybe with RiTa.js, you could also use the Wordnik API - https://developer.wordnik.com/faq
     - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
     - [USGS Earthquake data](http://earthquake.usgs.gov/earthquakes/feed/) visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - or [Leaflet Maps API](https://leafletjs.com/examples.html) - here's an example call to the earthquake service in JSON-P --> http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded
     - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
