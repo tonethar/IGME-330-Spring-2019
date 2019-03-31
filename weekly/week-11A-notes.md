@@ -7,10 +7,10 @@
 
 ## II. Today's Topics
 
-- Transpiling our ES6 code to ES5 via Node.js and WebPack - [Transpiling ES6 to ES5](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md)
 - Consuming Web Services from a command-line Node.js app:
   - [Node.js and Web Services - 1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
   - [Node.js and Web Services - 2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-2.md)
+- Transpiling our ES6 code to ES5 via Node.js and WebPack - [Transpiling ES6 to ES5](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md)
 
 ## III. Important Deadlines
 
