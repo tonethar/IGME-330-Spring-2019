@@ -9,10 +9,11 @@
       - the `Access-Control-Allow-Origin` HTTP header
       - [JSONP](https://en.wikipedia.org/wiki/JSONP) and XSS
   - Let's make our own XML web service --> [demo-php-web-service-xml.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-php-web-service-xml.md)
-  - ***Understanding JSON, JSON-P, and cross-origin issues will really help you on project 3!***
+  - ***Understanding JSON, JSON-P, and cross-origin issues will really help you on project 2!***
 
 - The Google Maps API:
   - [HW-maps-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md) - see mycourses dropbox for due date
+  - 
 
 <hr><hr>
 
