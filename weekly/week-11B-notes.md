@@ -6,7 +6,7 @@
   - Let's make our own JSON web service --> [demo-php-web-service-json.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-php-web-service-json.md)
     - we will learn how to download this data both by utilizing a JS console app with Node.js, and also with JS running in the browser
     - we will look at 2 techniques for getting around CORS restrictions:
-      - setting the `Access-Control-Allow-Origin` HTTP header
+      - setting the `Access-Control-Allow-Origin` HTTP response header
       - utilizing a *Proxy Server*
   - Let's make our own XML web service --> [demo-php-web-service-xml.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-php-web-service-xml.md)
   - ***Understanding JSON and cross-origin issues will really help you on project 2!***
