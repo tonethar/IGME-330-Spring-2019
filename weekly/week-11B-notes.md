@@ -13,7 +13,7 @@
 
 - The Google Maps API:
   - [HW-maps-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md) - see mycourses dropbox for due date
-  - 
+  - https://www.impactmedia.co.uk/google-are-now-charging-for-using-google-maps/
 
 <hr><hr>
 
