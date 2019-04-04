@@ -13,6 +13,7 @@
 
 - The Google Maps API:
   - [HW-maps-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md) - see mycourses dropbox for due date
+  - The data files you will need are here --> [map_data.zip](_files/map_data.zip)
   - https://www.impactmedia.co.uk/google-are-now-charging-for-using-google-maps/
   - Don't want to deal with Google Maps? Use the free Mapbox API on your HW instead --> https://www.mapbox.com
   
