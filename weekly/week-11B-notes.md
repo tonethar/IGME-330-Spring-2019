@@ -16,6 +16,7 @@
   - The data files you will need are here --> [map_data.zip](_files/map_data.zip)
   - https://www.impactmedia.co.uk/google-are-now-charging-for-using-google-maps/
   - Don't want to deal with Google Maps? Use the free Mapbox API on your HW instead --> https://www.mapbox.com
+  - Here's a little Mapbox demo we put together --> [mapbox-intro.md](./mapbox-intro.md)
   
 <hr><hr>
 
