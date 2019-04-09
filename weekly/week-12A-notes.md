@@ -38,14 +38,6 @@
 1. How can we find out if CORS is enabled?
 1. What is the name of the `XHR` property that holds downloaded JSON (or text) data?
 1. What is the name of the `XHR` property that holds downloaded XML data?
-1. Which of the following client applications could at times download and parse **JSON**?
-    - i. An iOS or Android Native Weather App
-    - ii. A Node.js Console App that uses `request`
-    - iii. A Web Browser Ajax App
-1. Which of the following client applications could at times download and parse **XML**?
-    - i. An iOS or Android Native Weather App
-    - ii. A Node.js Console App that uses `request`
-    - iii. A Web Browser Ajax App
 1. A request to a web server that contains all of the data in the query string is called a ___ request.
 1. A request to a web server that sends data in a separate file is called a ___ request.
 
