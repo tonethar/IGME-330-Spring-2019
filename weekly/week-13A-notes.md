@@ -1,7 +1,7 @@
 # Week 13A - Storing data in cloud
 
 ## I. Topics
-- [Project 2](../projects/project-2.md) requirements have been posted! The major components of this project are:
+- [Project 2](../projects/project-2.md) requirements have been posted for a while now, and deliverables are due soon! The major components of this project are:
   - It "mashes up" two or more web services to do something useful or entertaining
   - It uses an MVVM framework such as Vue.js to update the page, and does NOT do DOM manipulation via methods such as `document.querySelector()`
   - It stores data *locally* via webstorage
