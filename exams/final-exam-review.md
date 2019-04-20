@@ -37,6 +37,14 @@
 - why doesn't node.js have a *window* object and *DOM* manipulation methods?
 - what is contained in a *package.json* file?
 
-### III-D. Firebase
+### III-D. Web Services
 
-### III-E. Vue.js
+1) Write code that loops though all of the results below and logs out the value of all the `firstName` properties
+
+`let json = {"statusCode": 200, results: [{"firstName": "Jimmy"},{"firstName": "Johnny"}]};`
+
+
+
+### III-E. Firebase
+
+### III-F. Vue.js
