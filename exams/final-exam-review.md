@@ -34,6 +34,8 @@
 ### III-C. Node & npm
 
 - why doesn't node.js have a *window* object and *DOM* manipulation methods?
+- which JavaScript *engine* does node use?
+- what does npm allow us to download and manage?
 - what is contained in a *package.json* file?
 
 ### III-D. Web Services
