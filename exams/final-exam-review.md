@@ -2,8 +2,7 @@
 
 ## I. When is it?
 - The final written exam:
-  - for sections 02, 03 and 04, it will be given in class during our final regular, meeting week 14
-  - for section 01, the final written exam will be given during the first hour of the finals week scheduled exam time for your section
+  - It will be given in class during our final regular, meeting week 14
 
 ## II. What's on it? How do I study?
 - Everything that was covered for the entire semester is fair game, so be sure to review the course material from prior to the midterm --> [Midterm Exam Review](../exams/midterm-exam-review.md)
