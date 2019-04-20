@@ -17,29 +17,45 @@
 
 ### III-A. Text
 
-- Give examples of *constrained writing* techniques
-- What do the following JavaScript string methods do?
+1) Give examples of *constrained writing* techniques
+
+2) What do the following JavaScript string methods do?
   - `.join()`
   - `.replace()`
   - `.split()`
   - `.trim()`
-- Give an example of a regular expression *Metacharacter*
-- What are *stop words*?
-- What is a *grammar*?
-- What is the difference between a *terminal symbol* and a *non-terminal symbol*?
+  
+3) Give an example of a regular expression *Metacharacter*
+
+4) What are *stop words*?
+
+5) What is a *grammar*?
+
+6) What is the difference between a *terminal symbol* and a *non-terminal symbol*?
+
+7) What happens when we `.expand()` a grammar?
+
 
 ### III-B. ES6 Classes & Modules
 
 
 ### III-C. Node & npm
 
-- why doesn't **Node.js** have a *window* object and *DOM* manipulation methods?
-- which JavaScript *engine* does **Node.js** use?
-- write the line of code that imports a package named `cowsay`
-- what does `npm` allow us to download and manage?
-- what is contained in a *package.json* file?
-- what is *transpiling*?
-- what does the **webpack** package do?
+1) Which JavaScript *engine* does **Node.js** use?
+
+2) Does **Node.js** run on the *client-side*, *server-side*, or *both*?
+
+3) Why doesn't **Node.js** have a *window* object and *DOM* manipulation methods?
+
+4) Write the line of code that imports a package named `cowsay`
+
+5) What does `npm` allow us to download and manage?
+
+6) What is contained in a *package.json* file?
+
+7) What is *transpiling*?
+
+8) What does the **webpack** package do?
 
 
 ### III-D. Web Services
@@ -71,5 +87,11 @@ dataLoaded({
 
 
 ### III-E. Firebase
+
+1)  Which method of a firebase reference adds a new JSON object to that reference AND auto-assigns a new key?
+
+2)  Which method of a firebase reference replaces a JSON object and allows the developer to assign the object’s key?
+
+
 
 ### III-F. Vue.js
