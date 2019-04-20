@@ -60,6 +60,8 @@
 
 ### III-D. Web Services
 
+(plus see the other web service review questions linked above)
+
 ```js
 let json = {
   "statusCode": 200, 
@@ -115,3 +117,7 @@ dataLoaded({
 
 
 ### III-F. Vue.js
+
+(see the "ReVue" web service review questions linked above)
+
+
