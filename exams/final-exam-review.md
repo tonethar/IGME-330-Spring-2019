@@ -39,7 +39,12 @@
 
 ### III-D. Web Services
 
-`let json = {"statusCode": 200, "results": [{"firstName": "Jimmy"},{"firstName": "Johnny"}, {"firstName": "Jilly"}]};`
+```js
+let json = {
+  "statusCode": 200, 
+  "results": [{"firstName": "Jimmy"},{"firstName": "Johnny"}, {"firstName": "Jilly"}]
+ };
+ ```
 
 1) Write code that logs out the value of `statusCode`
 
