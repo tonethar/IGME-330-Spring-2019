@@ -67,7 +67,7 @@ let json = {
  };
  ```
 
-1) Write code that logs out the value of `statusCode`
+1) Write code that logs out the value of `statusCode` above
 
 2) Write code that loops though all of the `results` above and logs out the value of all the `firstName` properties
 
@@ -83,6 +83,26 @@ dataLoaded({
 4) Give the HTTP response header than "turns on" CORS so that a web browser can access a web service directly
 
 5) Explain what a *proxy server* does
+
+6) Write code that will access the &lt;longitude> value below:
+
+```xml
+<locations>
+  <place>
+    <title>
+      RIT
+    </title>
+    <location>
+      <street>
+        Jefferson Road
+      </street>
+      <city>
+        Henrietta
+      </city>
+    </location>
+  </place>
+</locations>
+```
 
 
 
