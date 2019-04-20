@@ -26,6 +26,8 @@
   - `.trim()`
 - Give an example of a regular expression *Metacharacter*
 - What are *stop words*?
+- What is a *grammar*?
+- What is the difference between a *terminal symbol* and a *non-terminal symbol*?
 
 ### III-B. ES6 Classes & Modules
 
