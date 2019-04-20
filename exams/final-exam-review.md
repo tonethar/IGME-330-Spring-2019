@@ -8,6 +8,7 @@
 ## II. What's on it? How do I study?
 - Everything that was covered for the entire semester is fair game, so be sure to review the course material from prior to the midterm --> [Midterm Exam Review](../exams/midterm-exam-review.md)
 - Review questions covered since midterm exam:
+  - [week-10A-notes.md#review](../weekly/week-10A-notes.md#review)
   - [week-12A-notes.md#review](../weekly/week-12A-notes.md#review)
   - [week-12B-notes.md#review](../weekly/week-12B-notes.md#review)
 - Review course notes and lecture videos, they are linked in mycourses
@@ -23,4 +24,14 @@
   - `.replace()`
   - `.split()`
   - `.trim()`
+- Give an example of a regular expression *Metacharacter*
+- What are *stop words*?
 
+### III-B. ES6 Classes & Modules
+
+
+### III-C. ES6 Node & npm
+
+### III-D. Firebase
+
+### III-E. Vue.js
