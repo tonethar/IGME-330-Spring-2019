@@ -39,9 +39,22 @@
 
 ### III-D. Web Services
 
-1) Write code that loops though all of the results below and logs out the value of all the `firstName` properties
+`let json = {"statusCode": 200, "results": [{"firstName": "Jimmy"},{"firstName": "Johnny"}, {"firstName": "Jilly"}]};`
 
-`let json = {"statusCode": 200, results: [{"firstName": "Jimmy"},{"firstName": "Johnny"}]};`
+1) Write code that logs out the value of `statusCode`
+
+2) Write code that loops though all of the `results` above and logs out the value of all the `firstName` properties
+
+3) What is the name of the format of the following data?
+
+```js
+dataLoaded({
+  "statusCode": 200, 
+  "results": [{"firstName": "Jimmy"},{"firstName": "Johnny"}, {"firstName": "Jilly"}]};
+});
+```
+
+4) Give the HTTP response header than "turn on" CORS
 
 
 
