@@ -66,6 +66,8 @@ dataLoaded({
 
 4) Give the HTTP response header than "turns on" CORS so that a web browser can access a web service directly
 
+5) Explain what a *proxy server* does
+
 
 
 ### III-E. Firebase
