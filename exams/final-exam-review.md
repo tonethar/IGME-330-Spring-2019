@@ -32,7 +32,10 @@
 ### III-B. ES6 Classes & Modules
 
 
-### III-C. ES6 Node & npm
+### III-C. Node & npm
+
+- why doesn't node.js have a *window* object and *DOM* manipulation methods?
+- what is contained in a *package.json* file?
 
 ### III-D. Firebase
 
