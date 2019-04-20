@@ -12,3 +12,15 @@
   - [week-12B-notes.md#review](../weekly/week-12B-notes.md#review)
 - Review course notes and lecture videos, they are linked in mycourses
 - Review the midterm exam videos, they are linked in mycourses
+
+## III. More review questions
+
+### III-A. Text
+
+- Give examples of *constrained writing* techniques
+- What do the following JavaScript string methods do?
+  - `.join()`
+  - `.replace()`
+  - `.split()`
+  - `.trim()`
+
