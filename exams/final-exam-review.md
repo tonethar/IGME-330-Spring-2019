@@ -33,10 +33,14 @@
 
 ### III-C. Node & npm
 
-- why doesn't node.js have a *window* object and *DOM* manipulation methods?
-- which JavaScript *engine* does node use?
-- what does npm allow us to download and manage?
+- why doesn't **Node.js** have a *window* object and *DOM* manipulation methods?
+- which JavaScript *engine* does **Node.js** use?
+- write the line of code that imports a package named `cowsay`
+- what does `npm` allow us to download and manage?
 - what is contained in a *package.json* file?
+- what is *transpiling*?
+- what does the **webpack** package do?
+
 
 ### III-D. Web Services
 
