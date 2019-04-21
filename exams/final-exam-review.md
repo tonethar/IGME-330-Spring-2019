@@ -11,7 +11,6 @@
   - [week-12A-notes.md#review](../weekly/week-12A-notes.md#review)
   - [week-12B-notes.md#review](../weekly/week-12B-notes.md#review)
 - Review course notes and lecture videos, they are linked in mycourses
-- Review the midterm exam videos, they are linked in mycourses
 
 ## III. More review questions
 
