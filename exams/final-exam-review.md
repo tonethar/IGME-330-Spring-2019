@@ -104,9 +104,10 @@ dataLoaded({
 
 5) Explain what a *proxy server* does
 
-6) Write code that will access the &lt;city> value below. Assume that this XML is a parseable DOMDocument that is stored in a variable named `doc`:
+6) Write code that will access the &lt;city> value below. Assume that this XML is a parseable DOMDocument that is stored in a variable named `domParser`:
 
-```xml
+```js
+let xmlString = `
 <locations>
   <place>
     <title>
@@ -122,6 +123,10 @@ dataLoaded({
     </location>
   </place>
 </locations>
+`;
+
+let domParser = new DOMParser();
+
 ```
 
 7) Describe how DOM Injection (aka XSS "Cross-Site Scripting") works when downloading JSON-P web services from another domain.
