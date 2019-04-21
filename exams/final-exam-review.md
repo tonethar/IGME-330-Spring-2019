@@ -48,7 +48,7 @@
 2) Turn the following code into an ES6 module by making just the `doubleIt()` function "public" and visible from the outside of the file. `SECRET` should be "private" to the file.
 
 ```js
-// this code in a file named mylib.js
+// this code is in a file named mylib.js
 
 const SECRET = 42;
 
