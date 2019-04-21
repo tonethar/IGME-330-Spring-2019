@@ -19,11 +19,11 @@
 
 1) Give examples of *constrained writing* techniques
 
-2) What do the following JavaScript string methods do?
-  - `.join()`
-  - `.replace()`
-  - `.split()`
-  - `.trim()`
+2) What do the following JavaScript methods do?
+  - `array.join()`
+  - `string.replace()`
+  - `string.split()`
+  - `string.trim()`
   
 3) Give an example of a regular expression *Metacharacter*
 
