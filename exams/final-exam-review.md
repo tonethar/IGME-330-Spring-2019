@@ -106,7 +106,7 @@ dataLoaded({
 </locations>
 ```
 
-
+7) Describe how DOM Injection (aka XSS "Cross-Site Scripting") works when downloading JSON-P web services from another domain.
 
 ### III-E. Firebase
 
