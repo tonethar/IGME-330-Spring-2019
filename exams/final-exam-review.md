@@ -38,6 +38,23 @@
 
 ### III-B. ES6 Classes & Modules
 
+1) Let's suppose we have a web service that returns "pet of the day" data in a JSON format. Properties of the JSON include the `species`, `description`, and `url` of the pet:
+  - create an ES6 class named `CutePet` that contains these 3 values as properties
+  - the class will have a constructor to initialize these values
+  - BONUS: create JS setters and getters for this class, and write validation code in the setters that guarantees that these 3 properties will always have a default value
+  
+  
+2) Turn the following code into an ES6 module by making just the `doubleIt()` function "public" and visible from the outside of the file. `SECRET` should be "private" to the file.
+
+```js
+// this code in a file named mylib.js
+
+const SECRET = 42;
+
+function doubleIt(num){
+  return num * 2;
+}
+```
 
 ### III-C. Node & npm
 
