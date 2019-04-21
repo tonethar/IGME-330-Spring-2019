@@ -61,7 +61,7 @@ function doubleIt(num){
 
 2) Does **Node.js** run on the *client-side*, *server-side*, or *both*?
 
-3) Why doesn't **Node.js** have a *window* object and *DOM* manipulation methods?
+3) Why doesn't **Node.js** have a `window` object and *DOM manipulation*  methods?
 
 4) Write the line of code that imports a package named `cowsay`
 
