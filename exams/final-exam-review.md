@@ -77,7 +77,7 @@ function doubleIt(num){
 
 ### III-D. Web Services
 
-(plus see the other web service review questions linked above)
+- Also see the other web service review questions linked above (12A)
 
 ```js
 let json = {
@@ -135,6 +135,6 @@ dataLoaded({
 
 ### III-F. Vue.js
 
-(see the "ReVue" web service review questions linked above)
+- See the "ReVue" web service review questions (12B) linked above
 
 
