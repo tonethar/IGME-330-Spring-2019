@@ -34,7 +34,7 @@
 
 7) What happens when we `.expand()` a grammar?
 
-8) Give an example of a PENN part-of-speech tag
+8) Give an example of a PENN part-of-speech tag (which is used by the RiTa `pos()` method
 
 
 ### III-B. ES6 Classes & Modules
