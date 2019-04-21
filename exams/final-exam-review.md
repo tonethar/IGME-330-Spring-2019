@@ -57,7 +57,7 @@ function doubleIt(num){
 }
 ```
 
-### III-C. Node & npm
+### III-C. Node.js & npm
 
 1) Which JavaScript *engine* does **Node.js** use?
 
