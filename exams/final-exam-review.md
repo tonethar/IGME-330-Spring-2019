@@ -34,6 +34,8 @@
 
 7) What happens when we `.expand()` a grammar?
 
+8) Give an example of a PENN part-of-speech tag
+
 
 ### III-B. ES6 Classes & Modules
 
