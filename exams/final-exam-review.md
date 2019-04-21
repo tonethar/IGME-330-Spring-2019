@@ -14,7 +14,7 @@
 
 ## III. More review questions
 
-### III-A. Text
+### III-A. Unstructured Text
 
 1) Give examples of *constrained writing* techniques
 
