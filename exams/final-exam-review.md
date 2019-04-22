@@ -143,6 +143,6 @@ let xmlDOM = domParser.parseFromString(xmlString, "application/xml");
 
 ### III-F. Vue.js
 
-- See the "ReVue" web service review questions (12B) linked above
+- See the "ReVue" Vue.js review questions (12B) linked above
 
 
