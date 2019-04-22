@@ -104,7 +104,7 @@ dataLoaded({
 
 5) Explain what a *proxy server* does
 
-6) Write code that will access the &lt;city> value below. Assume that this XML is a parseable DOMDocument that is stored in a variable named `domParser`:
+6) Write code that will access the &lt;city> value below. Assume that this XML is a parseable `DOMDocument` that is stored in a variable named `domParser`:
 
 ```js
 let xmlString = `
