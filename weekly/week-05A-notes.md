@@ -49,10 +49,18 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
   - give the user controls (sliders, check boxes, pull downs) to effect the visualization. The relationship between what the controls do and what happens on the screen should be obvious
 - ***Other tips for project 1***:
   - you will only get credit for code that goes beyond what was given to you in the exercises. For example, a "lines" checkbox (from Audio Viz II) was done for you and adds nothing to most visualizations.
-  - the circles from Audio Viz I should not be a component of your finished version - you should be looking to create something new and unique
+  - the circles from the Audio Viz HW should not be a component of your finished version - you should be looking to create something new and unique
   - try to do something interesting for the "curves" requirement - not just a single bouncing control point - here's an example done entirely with `ctx.bezierCurveTo()` - "Ratio Schmatio" looks pretty good on it: http://igm.rit.edu/~acjvks/courses/2018-spring/330/code-examples/viz/web-audio-4B-demo/three-spirographs.html
   - the UI should follow general CRAP principles covered elsewhere
   - you MAY use a library for your UI such as **dat.gui.js**, which is a popular lightweight GUI library  -> https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
+  - Other:
+    - Certain drawing could go beyond the raw data for the various bins (frequency ranges), it could instead be aggregate data such as average loudness of all frequencies, or changes in the average of certain frequencies, or tied to beat detection.
+    - Moving sprites (like in SG-2) and in our in-class demos could change their direction/speed/behavior based on user control or the characteristics of the audio data
+    - You can use `ctx.scale()` to squash or stretch shapes - to create ovals for example
+    - The Audio Visualizer ICE redraws the entire canvas every turn. Consider NOT doing so, and allowing drawing to accumulate on the canvas - a moving sprite drawing a trail for example - and then the entire layer either slowly fading or being wiped and started over.
+    - The above could be implemented on a second canvas like we did in the "Paint" Demo (see mycourses for files). This second canvas could also be toggled on and off by the user.
+    - Not everything has to be drawn at 60 frames/second - use `setTimeout()` or similar to achieve this 
+    - Consider using motion detection or face tracking data to influence your visualization
 
 
 ## V. Demo
